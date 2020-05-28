@@ -1,0 +1,1001 @@
+name,primaryLanguage,languages,url,stargazers,watchers,forks,diskUsage
+tensorflow,{'name': 'C++'},{'totalCount': 30},https://github.com/tensorflow/tensorflow,{'totalCount': 144893},{'totalCount': 8391},{'totalCount': 65122},543585
+keras,{'name': 'Python'},{'totalCount': 4},https://github.com/keras-team/keras,{'totalCount': 48410},{'totalCount': 2094},{'totalCount': 17582},13334
+scikit-learn,{'name': 'Python'},{'totalCount': 6},https://github.com/scikit-learn/scikit-learn,{'totalCount': 40869},{'totalCount': 2245},{'totalCount': 19108},116332
+pytorch,{'name': 'C++'},{'totalCount': 25},https://github.com/pytorch/pytorch,{'totalCount': 39020},{'totalCount': 1444},{'totalCount': 9718},278001
+TensorFlow-Examples,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/aymericdamien/TensorFlow-Examples,{'totalCount': 37390},{'totalCount': 2082},{'totalCount': 13547},9566
+tesseract,{'name': 'C++'},{'totalCount': 9},https://github.com/tesseract-ocr/tesseract,{'totalCount': 34634},{'totalCount': 1644},{'totalCount': 6216},45922
+face_recognition,{'name': 'Python'},{'totalCount': 3},https://github.com/ageitgey/face_recognition,{'totalCount': 34363},{'totalCount': 1504},{'totalCount': 9441},103897
+faceswap,{'name': 'Python'},{'totalCount': 3},https://github.com/deepfakes/faceswap,{'totalCount': 30603},{'totalCount': 1389},{'totalCount': 9565},198511
+caffe,{'name': 'C++'},{'totalCount': 8},https://github.com/BVLC/caffe,{'totalCount': 30329},{'totalCount': 2225},{'totalCount': 13397},76170
+100-Days-Of-ML-Code,{'name': 'Python'},{'totalCount': 1},https://github.com/Avik-Jain/100-Days-Of-ML-Code,{'totalCount': 28715},{'totalCount': 2317},{'totalCount': 7093},10970
+julia,{'name': 'Julia'},{'totalCount': 19},https://github.com/JuliaLang/julia,{'totalCount': 27405},{'totalCount': 962},{'totalCount': 3835},185515
+basics,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/madewithml/basics,{'totalCount': 24270},{'totalCount': 1151},{'totalCount': 4217},45234
+machine-learning-for-software-engineers,,{'totalCount': 0},https://github.com/ZuzooVn/machine-learning-for-software-engineers,{'totalCount': 23786},{'totalCount': 1580},{'totalCount': 4936},434
+awesome-deep-learning-papers,{'name': 'TeX'},{'totalCount': 2},https://github.com/terryum/awesome-deep-learning-papers,{'totalCount': 21144},{'totalCount': 1998},{'totalCount': 3818},147
+handson-ml,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/ageron/handson-ml,{'totalCount': 19882},{'totalCount': 1069},{'totalCount': 10190},85305
+xgboost,{'name': 'C++'},{'totalCount': 17},https://github.com/dmlc/xgboost,{'totalCount': 19111},{'totalCount': 989},{'totalCount': 7076},15965
+data-science-ipython-notebooks,{'name': 'Python'},{'totalCount': 4},https://github.com/donnemartin/data-science-ipython-notebooks,{'totalCount': 18525},{'totalCount': 1569},{'totalCount': 5364},49025
+fastai,{'name': 'Jupyter Notebook'},{'totalCount': 11},https://github.com/fastai/fastai,{'totalCount': 17972},{'totalCount': 657},{'totalCount': 6286},451406
+d2l-zh,{'name': 'Python'},{'totalCount': 6},https://github.com/d2l-ai/d2l-zh,{'totalCount': 17355},{'totalCount': 843},{'totalCount': 4358},163651
+openpose,{'name': 'C++'},{'totalCount': 7},https://github.com/CMU-Perceptual-Computing-Lab/openpose,{'totalCount': 17345},{'totalCount': 887},{'totalCount': 5027},86582
+Coursera-ML-AndrewNg-Notes,{'name': 'HTML'},{'totalCount': 2},https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes,{'totalCount': 17049},{'totalCount': 909},{'totalCount': 6537},649668
+CNTK,{'name': 'C++'},{'totalCount': 18},https://github.com/microsoft/CNTK,{'totalCount': 16780},{'totalCount': 1359},{'totalCount': 4314},935974
+spaCy,{'name': 'Python'},{'totalCount': 8},https://github.com/explosion/spaCy,{'totalCount': 16494},{'totalCount': 569},{'totalCount': 2867},168368
+ML-From-Scratch,{'name': 'Python'},{'totalCount': 1},https://github.com/eriklindernoren/ML-From-Scratch,{'totalCount': 16146},{'totalCount': 838},{'totalCount': 3025},553
+NLP-progress,{'name': 'Python'},{'totalCount': 3},https://github.com/sebastianruder/NLP-progress,{'totalCount': 15732},{'totalCount': 1247},{'totalCount': 2553},1146
+100-Days-Of-ML-Code,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/MLEveryday/100-Days-Of-ML-Code,{'totalCount': 15469},{'totalCount': 1076},{'totalCount': 4242},44856
+awesome-deep-learning,,{'totalCount': 0},https://github.com/ChristosChristofidis/awesome-deep-learning,{'totalCount': 15219},{'totalCount': 1259},{'totalCount': 4028},643
+cs-video-courses,,{'totalCount': 0},https://github.com/Developer-Y/cs-video-courses,{'totalCount': 14691},{'totalCount': 773},{'totalCount': 1874},1003
+lectures,,{'totalCount': 0},https://github.com/oxford-cs-deepnlp-2017/lectures,{'totalCount': 14609},{'totalCount': 1271},{'totalCount': 3406},48981
+pwc,,{'totalCount': 0},https://github.com/zziz/pwc,{'totalCount': 14592},{'totalCount': 1251},{'totalCount': 2260},1643
+WaveFunctionCollapse,{'name': 'C#'},{'totalCount': 1},https://github.com/mxgmn/WaveFunctionCollapse,{'totalCount': 14400},{'totalCount': 473},{'totalCount': 712},611
+homemade-machine-learning,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/trekhleb/homemade-machine-learning,{'totalCount': 14068},{'totalCount': 746},{'totalCount': 2720},14817
+DeepSpeech,{'name': 'C++'},{'totalCount': 14},https://github.com/mozilla/DeepSpeech,{'totalCount': 14065},{'totalCount': 619},{'totalCount': 2544},48803
+cheatsheets-ai,,{'totalCount': 0},https://github.com/kailashahirwar/cheatsheets-ai,{'totalCount': 13312},{'totalCount': 1063},{'totalCount': 3107},29960
+tfjs,{'name': 'TypeScript'},{'totalCount': 13},https://github.com/tensorflow/tfjs,{'totalCount': 13294},{'totalCount': 347},{'totalCount': 1147},57577
+Qix,,{'totalCount': 0},https://github.com/ty4z2008/Qix,{'totalCount': 13248},{'totalCount': 1866},{'totalCount': 4660},2322
+pumpkin-book,,{'totalCount': 0},https://github.com/datawhalechina/pumpkin-book,{'totalCount': 12931},{'totalCount': 465},{'totalCount': 2858},1515
+awesome-datascience,,{'totalCount': 0},https://github.com/academic/awesome-datascience,{'totalCount': 12789},{'totalCount': 1390},{'totalCount': 3245},819
+Screenshot-to-code,{'name': 'HTML'},{'totalCount': 4},https://github.com/emilwallner/Screenshot-to-code,{'totalCount': 12614},{'totalCount': 531},{'totalCount': 1229},51633
+Virgilio,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/virgili0/Virgilio,{'totalCount': 12581},{'totalCount': 862},{'totalCount': 2442},27041
+gun,{'name': 'JavaScript'},{'totalCount': 5},https://github.com/amark/gun,{'totalCount': 11765},{'totalCount': 315},{'totalCount': 684},31943
+ray,{'name': 'Python'},{'totalCount': 14},https://github.com/ray-project/ray,{'totalCount': 11687},{'totalCount': 375},{'totalCount': 1694},58019
+pytorch-handbook,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/zergtant/pytorch-handbook,{'totalCount': 11506},{'totalCount': 470},{'totalCount': 3525},76280
+Paddle,{'name': 'C++'},{'totalCount': 10},https://github.com/PaddlePaddle/Paddle,{'totalCount': 11492},{'totalCount': 687},{'totalCount': 2926},195316
+LightGBM,{'name': 'C++'},{'totalCount': 8},https://github.com/microsoft/LightGBM,{'totalCount': 11023},{'totalCount': 439},{'totalCount': 2840},12416
+gensim,{'name': 'Python'},{'totalCount': 6},https://github.com/RaRe-Technologies/gensim,{'totalCount': 10831},{'totalCount': 448},{'totalCount': 3550},96553
+python-machine-learning-book,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/rasbt/python-machine-learning-book,{'totalCount': 10667},{'totalCount': 830},{'totalCount': 3878},158091
+learnopencv,{'name': 'Jupyter Notebook'},{'totalCount': 14},https://github.com/spmallick/learnopencv,{'totalCount': 10654},{'totalCount': 847},{'totalCount': 6865},326127
+stanford-cs-229-machine-learning,,{'totalCount': 0},https://github.com/afshinea/stanford-cs-229-machine-learning,{'totalCount': 10456},{'totalCount': 621},{'totalCount': 2503},38339
+awesome-nlp,,{'totalCount': 0},https://github.com/keon/awesome-nlp,{'totalCount': 10427},{'totalCount': 594},{'totalCount': 1779},542
+Machine-Learning-Tutorials,,{'totalCount': 0},https://github.com/ujjwalkarn/Machine-Learning-Tutorials,{'totalCount': 10299},{'totalCount': 802},{'totalCount': 2630},9028
+google-research,{'name': 'Jupyter Notebook'},{'totalCount': 14},https://github.com/google-research/google-research,{'totalCount': 10239},{'totalCount': 498},{'totalCount': 1897},345887
+nsfw_data_scraper,{'name': 'Shell'},{'totalCount': 3},https://github.com/alex000kim/nsfw_data_scraper,{'totalCount': 10095},{'totalCount': 408},{'totalCount': 2616},8470
+tensor2tensor,{'name': 'Python'},{'totalCount': 6},https://github.com/tensorflow/tensor2tensor,{'totalCount': 10030},{'totalCount': 456},{'totalCount': 2516},15992
+Awesome-pytorch-list,,{'totalCount': 0},https://github.com/bharathgs/Awesome-pytorch-list,{'totalCount': 9995},{'totalCount': 578},{'totalCount': 2116},875
+dive-into-machine-learning,,{'totalCount': 0},https://github.com/hangtwenty/dive-into-machine-learning,{'totalCount': 9970},{'totalCount': 592},{'totalCount': 1728},528
+ChatterBot,{'name': 'Python'},{'totalCount': 1},https://github.com/gunthercox/ChatterBot,{'totalCount': 9944},{'totalCount': 544},{'totalCount': 3320},4321
+awesome-kubernetes,{'name': 'Makefile'},{'totalCount': 2},https://github.com/ramitsurana/awesome-kubernetes,{'totalCount': 9903},{'totalCount': 502},{'totalCount': 1450},1268
+turicreate,{'name': 'C++'},{'totalCount': 13},https://github.com/apple/turicreate,{'totalCount': 9655},{'totalCount': 369},{'totalCount': 989},318242
+stanford-tensorflow-tutorials,{'name': 'Python'},{'totalCount': 1},https://github.com/chiphuyen/stanford-tensorflow-tutorials,{'totalCount': 9545},{'totalCount': 643},{'totalCount': 4151},14037
+netron,{'name': 'JavaScript'},{'totalCount': 6},https://github.com/lutzroeder/netron,{'totalCount': 9505},{'totalCount': 210},{'totalCount': 1139},23606
+tflearn,{'name': 'Python'},{'totalCount': 1},https://github.com/tflearn/tflearn,{'totalCount': 9423},{'totalCount': 479},{'totalCount': 2318},1539
+horovod,{'name': 'Python'},{'totalCount': 3},https://github.com/horovod/horovod,{'totalCount': 9318},{'totalCount': 324},{'totalCount': 1455},3524
+caire,{'name': 'Go'},{'totalCount': 3},https://github.com/esimov/caire,{'totalCount': 9286},{'totalCount': 174},{'totalCount': 337},7952
+imgaug,{'name': 'Python'},{'totalCount': 2},https://github.com/aleju/imgaug,{'totalCount': 9116},{'totalCount': 221},{'totalCount': 1733},28520
+dlib,{'name': 'C++'},{'totalCount': 12},https://github.com/davisking/dlib,{'totalCount': 9052},{'totalCount': 505},{'totalCount': 2248},23333
+shap,{'name': 'Jupyter Notebook'},{'totalCount': 7},https://github.com/slundberg/shap,{'totalCount': 8978},{'totalCount': 223},{'totalCount': 1245},152556
+nltk,{'name': 'Python'},{'totalCount': 4},https://github.com/nltk/nltk,{'totalCount': 8935},{'totalCount': 498},{'totalCount': 2224},347138
+kubeflow,{'name': 'Jsonnet'},{'totalCount': 12},https://github.com/kubeflow/kubeflow,{'totalCount': 8934},{'totalCount': 389},{'totalCount': 1370},310997
+flair,{'name': 'Python'},{'totalCount': 1},https://github.com/flairNLP/flair,{'totalCount': 8723},{'totalCount': 203},{'totalCount': 1046},3605
+numpy-ml,{'name': 'Python'},{'totalCount': 1},https://github.com/ddbourgin/numpy-ml,{'totalCount': 8713},{'totalCount': 411},{'totalCount': 2458},10350
+botpress,{'name': 'TypeScript'},{'totalCount': 7},https://github.com/botpress/botpress,{'totalCount': 8703},{'totalCount': 226},{'totalCount': 952},222637
+EffectiveTensorflow,,{'totalCount': 0},https://github.com/vahidk/EffectiveTensorflow,{'totalCount': 8621},{'totalCount': 370},{'totalCount': 922},159
+tfjs-core,{'name': 'TypeScript'},{'totalCount': 6},https://github.com/tensorflow/tfjs-core,{'totalCount': 8551},{'totalCount': 314},{'totalCount': 933},380006
+the-gan-zoo,{'name': 'Python'},{'totalCount': 1},https://github.com/hindupuravinash/the-gan-zoo,{'totalCount': 8472},{'totalCount': 531},{'totalCount': 1783},2194
+rasa,{'name': 'Python'},{'totalCount': 5},https://github.com/RasaHQ/rasa,{'totalCount': 8471},{'totalCount': 327},{'totalCount': 2675},877546
+caffe2,{'name': 'Shell'},{'totalCount': 1},https://github.com/facebookarchive/caffe2,{'totalCount': 8466},{'totalCount': 546},{'totalCount': 1963},402959
+onnx,{'name': 'PureBasic'},{'totalCount': 8},https://github.com/onnx/onnx,{'totalCount': 8447},{'totalCount': 426},{'totalCount': 1392},13708
+sonnet,{'name': 'Python'},{'totalCount': 3},https://github.com/deepmind/sonnet,{'totalCount': 8343},{'totalCount': 462},{'totalCount': 1120},16737
+TensorFlow-Tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/Hvass-Labs/TensorFlow-Tutorials,{'totalCount': 8273},{'totalCount': 547},{'totalCount': 3801},67974
+streamlit,{'name': 'TypeScript'},{'totalCount': 9},https://github.com/streamlit/streamlit,{'totalCount': 8253},{'totalCount': 179},{'totalCount': 736},68079
+mit-deep-learning-book-pdf,{'name': 'Java'},{'totalCount': 1},https://github.com/janishar/mit-deep-learning-book-pdf,{'totalCount': 8156},{'totalCount': 364},{'totalCount': 1912},43565
+awesome-aws,{'name': 'Python'},{'totalCount': 2},https://github.com/donnemartin/awesome-aws,{'totalCount': 8117},{'totalCount': 438},{'totalCount': 922},717
+tutorials,{'name': 'Python'},{'totalCount': 2},https://github.com/MorvanZhou/tutorials,{'totalCount': 8076},{'totalCount': 623},{'totalCount': 4748},50482
+MLAlgorithms,{'name': 'Python'},{'totalCount': 2},https://github.com/rushter/MLAlgorithms,{'totalCount': 8048},{'totalCount': 432},{'totalCount': 1369},11910
+deep-learning-drizzle,,{'totalCount': 0},https://github.com/kmario23/deep-learning-drizzle,{'totalCount': 7758},{'totalCount': 509},{'totalCount': 1842},126
+fashion-mnist,{'name': 'Python'},{'totalCount': 5},https://github.com/zalandoresearch/fashion-mnist,{'totalCount': 7758},{'totalCount': 297},{'totalCount': 1763},107730
+bert-as-service,{'name': 'Python'},{'totalCount': 6},https://github.com/hanxiao/bert-as-service,{'totalCount': 7603},{'totalCount': 196},{'totalCount': 1482},9052
+mit-deep-learning,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/lexfridman/mit-deep-learning,{'totalCount': 7567},{'totalCount': 609},{'totalCount': 1702},65478
+Winds,{'name': 'HTML'},{'totalCount': 6},https://github.com/GetStream/Winds,{'totalCount': 7487},{'totalCount': 221},{'totalCount': 482},61084
+recommenders,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/microsoft/recommenders,{'totalCount': 7427},{'totalCount': 232},{'totalCount': 1111},30626
+pattern,{'name': 'Python'},{'totalCount': 3},https://github.com/clips/pattern,{'totalCount': 7422},{'totalCount': 565},{'totalCount': 1392},52330
+tpot,{'name': 'Python'},{'totalCount': 3},https://github.com/EpistasisLab/tpot,{'totalCount': 7077},{'totalCount': 303},{'totalCount': 1214},12004
+vowpal_wabbit,{'name': 'C++'},{'totalCount': 19},https://github.com/VowpalWabbit/vowpal_wabbit,{'totalCount': 7064},{'totalCount': 400},{'totalCount': 1568},127594
+autokeras,{'name': 'Python'},{'totalCount': 4},https://github.com/keras-team/autokeras,{'totalCount': 7061},{'totalCount': 307},{'totalCount': 1142},40365
+mediapipe,{'name': 'C++'},{'totalCount': 12},https://github.com/google/mediapipe,{'totalCount': 7028},{'totalCount': 320},{'totalCount': 1282},238708
+machinelearning,{'name': 'C#'},{'totalCount': 10},https://github.com/dotnet/machinelearning,{'totalCount': 6934},{'totalCount': 618},{'totalCount': 1465},54201
+mlcourse.ai,{'name': 'Python'},{'totalCount': 4},https://github.com/Yorko/mlcourse.ai,{'totalCount': 6911},{'totalCount': 588},{'totalCount': 4448},656236
+pysc2,{'name': 'Python'},{'totalCount': 1},https://github.com/deepmind/pysc2,{'totalCount': 6869},{'totalCount': 389},{'totalCount': 1015},1271
+ludwig,{'name': 'Python'},{'totalCount': 5},https://github.com/uber/ludwig,{'totalCount': 6717},{'totalCount': 182},{'totalCount': 750},13670
+mlflow,{'name': 'Python'},{'totalCount': 11},https://github.com/mlflow/mlflow,{'totalCount': 6567},{'totalCount': 250},{'totalCount': 1394},30871
+machine-learning-course,{'name': 'Python'},{'totalCount': 3},https://github.com/machinelearningmindset/machine-learning-course,{'totalCount': 6399},{'totalCount': 290},{'totalCount': 1112},14145
+abu,{'name': 'Python'},{'totalCount': 2},https://github.com/bbfamily/abu,{'totalCount': 6342},{'totalCount': 610},{'totalCount': 2298},98941
+vision,{'name': 'Jupyter Notebook'},{'totalCount': 9},https://github.com/pytorch/vision,{'totalCount': 6339},{'totalCount': 262},{'totalCount': 3194},10461
+tensorboardX,{'name': 'Python'},{'totalCount': 2},https://github.com/lanpa/tensorboardX,{'totalCount': 6320},{'totalCount': 82},{'totalCount': 691},4040
+guess,{'name': 'TypeScript'},{'totalCount': 5},https://github.com/guess-js/guess,{'totalCount': 6293},{'totalCount': 98},{'totalCount': 161},13317
+pyro,{'name': 'Jupyter Notebook'},{'totalCount': 8},https://github.com/pyro-ppl/pyro,{'totalCount': 6252},{'totalCount': 219},{'totalCount': 717},59722
+nni,{'name': 'Python'},{'totalCount': 9},https://github.com/microsoft/nni,{'totalCount': 6186},{'totalCount': 190},{'totalCount': 802},29700
+facets,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/PAIR-code/facets,{'totalCount': 6182},{'totalCount': 280},{'totalCount': 753},23276
+lab,{'name': 'C'},{'totalCount': 14},https://github.com/deepmind/lab,{'totalCount': 6160},{'totalCount': 505},{'totalCount': 1216},459898
+machine-learning-yearning-cn,{'name': 'CSS'},{'totalCount': 4},https://github.com/deeplearning-ai/machine-learning-yearning-cn,{'totalCount': 6078},{'totalCount': 355},{'totalCount': 1303},15346
+generative-models,{'name': 'Python'},{'totalCount': 1},https://github.com/wiseodd/generative-models,{'totalCount': 6050},{'totalCount': 320},{'totalCount': 1794},114
+Interview,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/apachecn/Interview,{'totalCount': 5997},{'totalCount': 338},{'totalCount': 1759},124340
+BossSensor,{'name': 'Python'},{'totalCount': 1},https://github.com/Hironsan/BossSensor,{'totalCount': 5897},{'totalCount': 281},{'totalCount': 1080},29659
+angel,{'name': 'Java'},{'totalCount': 8},https://github.com/Angel-ML/angel,{'totalCount': 5831},{'totalCount': 450},{'totalCount': 1431},88832
+pytorch-lightning,{'name': 'Python'},{'totalCount': 3},https://github.com/PyTorchLightning/pytorch-lightning,{'totalCount': 5793},{'totalCount': 107},{'totalCount': 629},33347
+python-machine-learning-book-2nd-edition,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/rasbt/python-machine-learning-book-2nd-edition,{'totalCount': 5753},{'totalCount': 371},{'totalCount': 2278},241207
+Swift-AI,{'name': 'Swift'},{'totalCount': 1},https://github.com/Swift-AI/Swift-AI,{'totalCount': 5718},{'totalCount': 353},{'totalCount': 534},30117
+EasyPR,{'name': 'C++'},{'totalCount': 5},https://github.com/liuruoze/EasyPR,{'totalCount': 5619},{'totalCount': 545},{'totalCount': 2346},195032
+argo,{'name': 'Go'},{'totalCount': 9},https://github.com/argoproj/argo,{'totalCount': 5583},{'totalCount': 156},{'totalCount': 898},27615
+tensorflow_cookbook,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/nfmcclure/tensorflow_cookbook,{'totalCount': 5578},{'totalCount': 347},{'totalCount': 2221},19782
+SerpentAI,{'name': 'Python'},{'totalCount': 1},https://github.com/SerpentAI/SerpentAI,{'totalCount': 5553},{'totalCount': 303},{'totalCount': 604},3859
+darkflow,{'name': 'Python'},{'totalCount': 1},https://github.com/thtrieu/darkflow,{'totalCount': 5528},{'totalCount': 255},{'totalCount': 1879},33768
+tensorpack,{'name': 'Python'},{'totalCount': 2},https://github.com/tensorpack/tensorpack,{'totalCount': 5500},{'totalCount': 215},{'totalCount': 1639},8939
+swift,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/tensorflow/swift,{'totalCount': 5492},{'totalCount': 281},{'totalCount': 502},3312
+awesome-artificial-intelligence,,{'totalCount': 0},https://github.com/owainlewis/awesome-artificial-intelligence,{'totalCount': 5436},{'totalCount': 574},{'totalCount': 1093},194
+chainer,{'name': 'Python'},{'totalCount': 9},https://github.com/chainer/chainer,{'totalCount': 5384},{'totalCount': 305},{'totalCount': 1305},53609
+incubator-tvm,{'name': 'Python'},{'totalCount': 18},https://github.com/apache/incubator-tvm,{'totalCount': 5345},{'totalCount': 370},{'totalCount': 1411},27549
+albumentations,{'name': 'Python'},{'totalCount': 3},https://github.com/albumentations-team/albumentations,{'totalCount': 5244},{'totalCount': 113},{'totalCount': 675},101323
+dvc,{'name': 'Python'},{'totalCount': 5},https://github.com/iterative/dvc,{'totalCount': 5200},{'totalCount': 98},{'totalCount': 454},8898
+Reinforcement-learning-with-tensorflow,{'name': 'Python'},{'totalCount': 1},https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow,{'totalCount': 5188},{'totalCount': 271},{'totalCount': 3401},422
+industry-machine-learning,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/firmai/industry-machine-learning,{'totalCount': 5181},{'totalCount': 338},{'totalCount': 750},3070
+3D-Machine-Learning,,{'totalCount': 0},https://github.com/timzhang642/3D-Machine-Learning,{'totalCount': 5176},{'totalCount': 510},{'totalCount': 1087},22119
+catboost,{'name': 'C++'},{'totalCount': 23},https://github.com/catboost/catboost,{'totalCount': 5138},{'totalCount': 190},{'totalCount': 745},475502
+d2l-en,{'name': 'Python'},{'totalCount': 4},https://github.com/d2l-ai/d2l-en,{'totalCount': 5125},{'totalCount': 197},{'totalCount': 1237},188659
+tiny-dnn,{'name': 'C++'},{'totalCount': 5},https://github.com/tiny-dnn/tiny-dnn,{'totalCount': 5109},{'totalCount': 346},{'totalCount': 1259},25554
+pandas-profiling,{'name': 'Jupyter Notebook'},{'totalCount': 8},https://github.com/pandas-profiling/pandas-profiling,{'totalCount': 5105},{'totalCount': 128},{'totalCount': 698},97900
+data-science-blogs,{'name': 'Python'},{'totalCount': 1},https://github.com/rushter/data-science-blogs,{'totalCount': 5100},{'totalCount': 459},{'totalCount': 1084},372
+leeml-notes,,{'totalCount': 0},https://github.com/datawhalechina/leeml-notes,{'totalCount': 5061},{'totalCount': 229},{'totalCount': 1554},251101
+ML-NLP,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/NLP-LOVE/ML-NLP,{'totalCount': 5040},{'totalCount': 247},{'totalCount': 1582},11965
+machine_learning_examples,{'name': 'Python'},{'totalCount': 1},https://github.com/lazyprogrammer/machine_learning_examples,{'totalCount': 5019},{'totalCount': 573},{'totalCount': 4496},22465
+TensorFlow-2.x-Tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/dragen1860/TensorFlow-2.x-Tutorials,{'totalCount': 5013},{'totalCount': 213},{'totalCount': 1682},166775
+CVPR2020-Paper-Code-Interpretation,,{'totalCount': 0},https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation,{'totalCount': 4984},{'totalCount': 250},{'totalCount': 1200},928
+ImageAI,{'name': 'Python'},{'totalCount': 1},https://github.com/OlafenwaMoses/ImageAI,{'totalCount': 4896},{'totalCount': 268},{'totalCount': 1401},62139
+TopDeepLearning,{'name': 'Python'},{'totalCount': 1},https://github.com/aymericdamien/TopDeepLearning,{'totalCount': 4864},{'totalCount': 348},{'totalCount': 769},47
+cortex,{'name': 'Go'},{'totalCount': 5},https://github.com/cortexlabs/cortex,{'totalCount': 4859},{'totalCount': 129},{'totalCount': 378},4833
+have-fun-with-machine-learning,{'name': 'Python'},{'totalCount': 1},https://github.com/humphd/have-fun-with-machine-learning,{'totalCount': 4850},{'totalCount': 205},{'totalCount': 515},7887
+featuretools,{'name': 'Python'},{'totalCount': 3},https://github.com/FeatureLabs/featuretools,{'totalCount': 4848},{'totalCount': 150},{'totalCount': 618},6037
+h2o-3,{'name': 'Jupyter Notebook'},{'totalCount': 19},https://github.com/h2oai/h2o-3,{'totalCount': 4806},{'totalCount': 395},{'totalCount': 1691},462088
+PyTorch-Tutorial,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/MorvanZhou/PyTorch-Tutorial,{'totalCount': 4792},{'totalCount': 195},{'totalCount': 2184},13383
+smile,{'name': 'Java'},{'totalCount': 13},https://github.com/haifengl/smile,{'totalCount': 4778},{'totalCount': 260},{'totalCount': 958},245536
+awesome-machine-learning-on-source-code,,{'totalCount': 0},https://github.com/src-d/awesome-machine-learning-on-source-code,{'totalCount': 4768},{'totalCount': 348},{'totalCount': 684},611
+keras-js,{'name': 'JavaScript'},{'totalCount': 4},https://github.com/transcranial/keras-js,{'totalCount': 4732},{'totalCount': 184},{'totalCount': 480},18004
+useful-java-links,{'name': 'Java'},{'totalCount': 2},https://github.com/Vedenin/useful-java-links,{'totalCount': 4705},{'totalCount': 525},{'totalCount': 948},2686
+Data-Analysis-and-Machine-Learning-Projects,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects,{'totalCount': 4693},{'totalCount': 323},{'totalCount': 1707},20416
+nlp-recipes,{'name': 'Python'},{'totalCount': 6},https://github.com/microsoft/nlp-recipes,{'totalCount': 4692},{'totalCount': 174},{'totalCount': 567},48701
+PRMLT,{'name': 'MATLAB'},{'totalCount': 1},https://github.com/PRML/PRMLT,{'totalCount': 4647},{'totalCount': 395},{'totalCount': 1807},506
+keras-rl,{'name': 'Python'},{'totalCount': 1},https://github.com/keras-rl/keras-rl,{'totalCount': 4635},{'totalCount': 231},{'totalCount': 1165},1414
+Awesome-CoreML-Models,{'name': 'Python'},{'totalCount': 1},https://github.com/likedan/Awesome-CoreML-Models,{'totalCount': 4600},{'totalCount': 233},{'totalCount': 362},3070
+cleverhans,{'name': 'Python'},{'totalCount': 3},https://github.com/tensorflow/cleverhans,{'totalCount': 4556},{'totalCount': 196},{'totalCount': 1098},8631
+edward,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/blei-lab/edward,{'totalCount': 4507},{'totalCount': 296},{'totalCount': 753},29865
+TensorFlow-World,{'name': 'Python'},{'totalCount': 3},https://github.com/astorfi/TensorFlow-World,{'totalCount': 4488},{'totalCount': 173},{'totalCount': 409},26384
+machine-learning-mindmap,,{'totalCount': 0},https://github.com/dformoso/machine-learning-mindmap,{'totalCount': 4424},{'totalCount': 266},{'totalCount': 745},15538
+imbalanced-learn,{'name': 'Python'},{'totalCount': 5},https://github.com/scikit-learn-contrib/imbalanced-learn,{'totalCount': 4416},{'totalCount': 153},{'totalCount': 914},21313
+serving,{'name': 'C++'},{'totalCount': 6},https://github.com/tensorflow/serving,{'totalCount': 4403},{'totalCount': 249},{'totalCount': 1704},9460
+TensorFlow-Book,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/BinRoot/TensorFlow-Book,{'totalCount': 4395},{'totalCount': 319},{'totalCount': 1138},45766
+seq2seq-couplet,{'name': 'Python'},{'totalCount': 1},https://github.com/wb14123/seq2seq-couplet,{'totalCount': 4387},{'totalCount': 130},{'totalCount': 873},38
+trax,{'name': 'Python'},{'totalCount': 3},https://github.com/google/trax,{'totalCount': 4364},{'totalCount': 117},{'totalCount': 321},4467
+DeepPavlov,{'name': 'Python'},{'totalCount': 3},https://github.com/deepmipt/DeepPavlov,{'totalCount': 4304},{'totalCount': 205},{'totalCount': 775},35625
+neurojs,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/janhuenermann/neurojs,{'totalCount': 4304},{'totalCount': 164},{'totalCount': 328},19482
+stanza,{'name': 'Python'},{'totalCount': 5},https://github.com/stanfordnlp/stanza,{'totalCount': 4200},{'totalCount': 133},{'totalCount': 528},5100
+tensorspace,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/tensorspace-team/tensorspace,{'totalCount': 4190},{'totalCount': 133},{'totalCount': 367},1157942
+MNN,{'name': 'C++'},{'totalCount': 13},https://github.com/alibaba/MNN,{'totalCount': 4067},{'totalCount': 179},{'totalCount': 834},37949
+DeepLearningProject,{'name': 'HTML'},{'totalCount': 3},https://github.com/Spandan-Madan/DeepLearningProject,{'totalCount': 4041},{'totalCount': 205},{'totalCount': 572},2890
+serenata-de-amor,{'name': 'Python'},{'totalCount': 7},https://github.com/okfn-brasil/serenata-de-amor,{'totalCount': 4040},{'totalCount': 414},{'totalCount': 678},70976
+nmap,{'name': 'C'},{'totalCount': 26},https://github.com/nmap/nmap,{'totalCount': 4039},{'totalCount': 306},{'totalCount': 1295},88965
+pipeline,{'name': 'Jsonnet'},{'totalCount': 18},https://github.com/PipelineAI/pipeline,{'totalCount': 3986},{'totalCount': 342},{'totalCount': 927},94805
+AlphaPose,{'name': 'Python'},{'totalCount': 4},https://github.com/MVIG-SJTU/AlphaPose,{'totalCount': 3985},{'totalCount': 186},{'totalCount': 1065},67318
+Augmentor,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/mdbloice/Augmentor,{'totalCount': 3972},{'totalCount': 127},{'totalCount': 725},1526
+learning-to-learn,{'name': 'Python'},{'totalCount': 1},https://github.com/deepmind/learning-to-learn,{'totalCount': 3972},{'totalCount': 211},{'totalCount': 575},90
+DIGITS,{'name': 'HTML'},{'totalCount': 8},https://github.com/NVIDIA/DIGITS,{'totalCount': 3955},{'totalCount': 341},{'totalCount': 1347},51154
+gluon-cv,{'name': 'Python'},{'totalCount': 5},https://github.com/dmlc/gluon-cv,{'totalCount': 3916},{'totalCount': 151},{'totalCount': 893},32550
+umap,{'name': 'Python'},{'totalCount': 4},https://github.com/lmcinnes/umap,{'totalCount': 3915},{'totalCount': 124},{'totalCount': 386},27650
+mace,{'name': 'C++'},{'totalCount': 9},https://github.com/XiaoMi/mace,{'totalCount': 3887},{'totalCount': 229},{'totalCount': 681},20925
+python-small-examples,{'name': 'Python'},{'totalCount': 4},https://github.com/jackzhenguo/python-small-examples,{'totalCount': 3884},{'totalCount': 180},{'totalCount': 870},132417
+snorkel,{'name': 'Python'},{'totalCount': 1},https://github.com/snorkel-team/snorkel,{'totalCount': 3874},{'totalCount': 166},{'totalCount': 648},292701
+framework,{'name': 'C#'},{'totalCount': 15},https://github.com/accord-net/framework,{'totalCount': 3838},{'totalCount': 378},{'totalCount': 1721},427523
+vaex,{'name': 'Python'},{'totalCount': 10},https://github.com/vaexio/vaex,{'totalCount': 3831},{'totalCount': 102},{'totalCount': 280},130223
+ml5-library,{'name': 'JavaScript'},{'totalCount': 2},https://github.com/ml5js/ml5-library,{'totalCount': 3822},{'totalCount': 105},{'totalCount': 355},369206
+awesome-project-ideas,,{'totalCount': 0},https://github.com/NirantK/awesome-project-ideas,{'totalCount': 3817},{'totalCount': 236},{'totalCount': 874},63
+sqlflow,{'name': 'Go'},{'totalCount': 9},https://github.com/sql-machine-learning/sqlflow,{'totalCount': 3772},{'totalCount': 149},{'totalCount': 561},26118
+nsfwjs,{'name': 'JavaScript'},{'totalCount': 4},https://github.com/infinitered/nsfwjs,{'totalCount': 3767},{'totalCount': 61},{'totalCount': 224},52636
+FlappyLearning,{'name': 'JavaScript'},{'totalCount': 2},https://github.com/xviniette/FlappyLearning,{'totalCount': 3759},{'totalCount': 118},{'totalCount': 424},11472
+Tensorflow-Tutorial,{'name': 'Python'},{'totalCount': 1},https://github.com/MorvanZhou/Tensorflow-Tutorial,{'totalCount': 3742},{'totalCount': 258},{'totalCount': 1776},38883
+awesome-ml-for-cybersecurity,,{'totalCount': 0},https://github.com/jivoi/awesome-ml-for-cybersecurity,{'totalCount': 3717},{'totalCount': 367},{'totalCount': 1065},262
+lucid,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/tensorflow/lucid,{'totalCount': 3704},{'totalCount': 165},{'totalCount': 495},149517
+tensorflow-docs,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/xitu/tensorflow-docs,{'totalCount': 3691},{'totalCount': 174},{'totalCount': 463},4785
+pattern_classification,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/rasbt/pattern_classification,{'totalCount': 3659},{'totalCount': 401},{'totalCount': 1186},112921
+ssd.pytorch,{'name': 'Python'},{'totalCount': 2},https://github.com/amdegroot/ssd.pytorch,{'totalCount': 3652},{'totalCount': 83},{'totalCount': 1349},108865
+teachable-machine-v1,{'name': 'JavaScript'},{'totalCount': 4},https://github.com/googlecreativelab/teachable-machine-v1,{'totalCount': 3593},{'totalCount': 157},{'totalCount': 487},4002
+daily-paper-computer-vision,,{'totalCount': 0},https://github.com/amusi/daily-paper-computer-vision,{'totalCount': 3580},{'totalCount': 385},{'totalCount': 944},986
+awesome-production-machine-learning,,{'totalCount': 0},https://github.com/EthicalML/awesome-production-machine-learning,{'totalCount': 3512},{'totalCount': 203},{'totalCount': 483},1739
+TensorFlowOnSpark,{'name': 'Python'},{'totalCount': 3},https://github.com/yahoo/TensorFlowOnSpark,{'totalCount': 3488},{'totalCount': 294},{'totalCount': 879},8770
+AlgoWiki,{'name': 'CSS'},{'totalCount': 3},https://github.com/vicky002/AlgoWiki,{'totalCount': 3470},{'totalCount': 157},{'totalCount': 869},181600
+sklearn-doc-zh,{'name': 'Python'},{'totalCount': 3},https://github.com/apachecn/sklearn-doc-zh,{'totalCount': 3440},{'totalCount': 172},{'totalCount': 1112},64863
+docs,{'name': 'Jupyter Notebook'},{'totalCount': 8},https://github.com/tensorflow/docs,{'totalCount': 3399},{'totalCount': 192},{'totalCount': 3432},95520
+gorgonia,{'name': 'Go'},{'totalCount': 6},https://github.com/gorgonia/gorgonia,{'totalCount': 3373},{'totalCount': 179},{'totalCount': 296},52181
+Lihang,{'name': 'Python'},{'totalCount': 3},https://github.com/SmirkCao/Lihang,{'totalCount': 3361},{'totalCount': 132},{'totalCount': 1011},10383
+hands-on-ml-zh,{'name': 'CSS'},{'totalCount': 5},https://github.com/apachecn/hands-on-ml-zh,{'totalCount': 3331},{'totalCount': 265},{'totalCount': 1345},43305
+snips-nlu,{'name': 'Python'},{'totalCount': 1},https://github.com/snipsco/snips-nlu,{'totalCount': 3279},{'totalCount': 136},{'totalCount': 416},20289
+metaflow,{'name': 'Python'},{'totalCount': 3},https://github.com/Netflix/metaflow,{'totalCount': 3265},{'totalCount': 180},{'totalCount': 242},440
+mlpack,{'name': 'C++'},{'totalCount': 7},https://github.com/mlpack/mlpack,{'totalCount': 3257},{'totalCount': 204},{'totalCount': 1194},253316
+skorch,{'name': 'Python'},{'totalCount': 4},https://github.com/skorch-dev/skorch,{'totalCount': 3190},{'totalCount': 84},{'totalCount': 236},5461
+arXivTimes,,{'totalCount': 0},https://github.com/arXivTimes/arXivTimes,{'totalCount': 3187},{'totalCount': 754},{'totalCount': 198},2307
+vespa,{'name': 'Java'},{'totalCount': 22},https://github.com/vespa-engine/vespa,{'totalCount': 3169},{'totalCount': 158},{'totalCount': 363},114859
+pyod,{'name': 'Python'},{'totalCount': 2},https://github.com/yzhao062/pyod,{'totalCount': 3164},{'totalCount': 120},{'totalCount': 640},36207
+pyAudioAnalysis,{'name': 'Python'},{'totalCount': 5},https://github.com/tyiannak/pyAudioAnalysis,{'totalCount': 3157},{'totalCount': 190},{'totalCount': 844},137885
+machine_learning_basics,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/zotroneneis/machine_learning_basics,{'totalCount': 3116},{'totalCount': 170},{'totalCount': 557},7078
+cnn-explainer,{'name': 'JavaScript'},{'totalCount': 5},https://github.com/poloclub/cnn-explainer,{'totalCount': 3106},{'totalCount': 99},{'totalCount': 491},89579
+jetson-inference,{'name': 'C++'},{'totalCount': 6},https://github.com/dusty-nv/jetson-inference,{'totalCount': 3105},{'totalCount': 247},{'totalCount': 1339},95287
+lightfm,{'name': 'Python'},{'totalCount': 3},https://github.com/lyst/lightfm,{'totalCount': 3103},{'totalCount': 104},{'totalCount': 510},4794
+adanet,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/tensorflow/adanet,{'totalCount': 3087},{'totalCount': 171},{'totalCount': 460},2496
+doccano,{'name': 'Python'},{'totalCount': 7},https://github.com/doccano/doccano,{'totalCount': 3012},{'totalCount': 91},{'totalCount': 623},45604
+handong1587.github.io,{'name': 'CSS'},{'totalCount': 4},https://github.com/handong1587/handong1587.github.io,{'totalCount': 2999},{'totalCount': 366},{'totalCount': 1023},178248
+deep-learning-papers,,{'totalCount': 0},https://github.com/sbrugman/deep-learning-papers,{'totalCount': 2962},{'totalCount': 254},{'totalCount': 371},64787
+DeepLearning,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/Mikoto10032/DeepLearning,{'totalCount': 2961},{'totalCount': 168},{'totalCount': 1080},958216
+mlxtend,{'name': 'Python'},{'totalCount': 3},https://github.com/rasbt/mlxtend,{'totalCount': 2934},{'totalCount': 123},{'totalCount': 623},71561
+Reinforcement-Learning,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/andri27-ts/Reinforcement-Learning,{'totalCount': 2927},{'totalCount': 235},{'totalCount': 360},10493
+probability,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/tensorflow/probability,{'totalCount': 2893},{'totalCount': 177},{'totalCount': 725},83516
+TensorFlowSharp,{'name': 'C#'},{'totalCount': 5},https://github.com/migueldeicaza/TensorFlowSharp,{'totalCount': 2875},{'totalCount': 255},{'totalCount': 527},8620
+scikit-learn-videos,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/justmarkham/scikit-learn-videos,{'totalCount': 2871},{'totalCount': 341},{'totalCount': 2006},1401
+sacred,{'name': 'Python'},{'totalCount': 3},https://github.com/IDSIA/sacred,{'totalCount': 2847},{'totalCount': 84},{'totalCount': 292},3516
+ignite,{'name': 'Python'},{'totalCount': 2},https://github.com/pytorch/ignite,{'totalCount': 2830},{'totalCount': 60},{'totalCount': 316},35246
+easy-tensorflow,{'name': 'Python'},{'totalCount': 1},https://github.com/easy-tensorflow/easy-tensorflow,{'totalCount': 2828},{'totalCount': 108},{'totalCount': 336},20714
+tensorwatch,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/microsoft/tensorwatch,{'totalCount': 2817},{'totalCount': 100},{'totalCount': 278},22293
+pigo,{'name': 'Go'},{'totalCount': 7},https://github.com/esimov/pigo,{'totalCount': 2762},{'totalCount': 88},{'totalCount': 166},13007
+DMTK,,{'totalCount': 0},https://github.com/microsoft/DMTK,{'totalCount': 2757},{'totalCount': 316},{'totalCount': 572},17
+yellowbrick,{'name': 'Python'},{'totalCount': 3},https://github.com/DistrictDataLabs/yellowbrick,{'totalCount': 2741},{'totalCount': 93},{'totalCount': 419},69394
+libpostal,{'name': 'C'},{'totalCount': 7},https://github.com/openvenues/libpostal,{'totalCount': 2739},{'totalCount': 110},{'totalCount': 273},37713
+mindsdb,{'name': 'Python'},{'totalCount': 3},https://github.com/mindsdb/mindsdb,{'totalCount': 2687},{'totalCount': 208},{'totalCount': 328},198975
+xlearn,{'name': 'C++'},{'totalCount': 10},https://github.com/aksnzhy/xlearn,{'totalCount': 2685},{'totalCount': 105},{'totalCount': 452},11181
+shogun,{'name': 'C++'},{'totalCount': 13},https://github.com/shogun-toolbox/shogun,{'totalCount': 2675},{'totalCount': 222},{'totalCount': 989},70679
+interpret,{'name': 'C++'},{'totalCount': 9},https://github.com/interpretml/interpret,{'totalCount': 2666},{'totalCount': 124},{'totalCount': 325},3245
+deep-learning-book,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/rasbt/deep-learning-book,{'totalCount': 2653},{'totalCount': 221},{'totalCount': 705},11676
+keras-vis,{'name': 'Python'},{'totalCount': 1},https://github.com/raghakot/keras-vis,{'totalCount': 2612},{'totalCount': 74},{'totalCount': 527},153803
+machinelearning-samples,{'name': 'PowerShell'},{'totalCount': 1},https://github.com/dotnet/machinelearning-samples,{'totalCount': 2606},{'totalCount': 284},{'totalCount': 1555},1570763
+deepjazz,{'name': 'Python'},{'totalCount': 1},https://github.com/jisungk/deepjazz,{'totalCount': 2592},{'totalCount': 109},{'totalCount': 386},12222
+LSTM-Human-Activity-Recognition,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition,{'totalCount': 2589},{'totalCount': 152},{'totalCount': 765},1298
+DALI,{'name': 'C++'},{'totalCount': 7},https://github.com/NVIDIA/DALI,{'totalCount': 2583},{'totalCount': 82},{'totalCount': 310},117106
+DeepSpeed,{'name': 'Python'},{'totalCount': 5},https://github.com/microsoft/DeepSpeed,{'totalCount': 2543},{'totalCount': 57},{'totalCount': 210},928
+computervision-recipes,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/microsoft/computervision-recipes,{'totalCount': 2534},{'totalCount': 108},{'totalCount': 335},179603
+training,{'name': 'Go'},{'totalCount': 5},https://github.com/cloud-annotations/training,{'totalCount': 2526},{'totalCount': 107},{'totalCount': 475},111883
+reinforcement-learning,{'name': 'Python'},{'totalCount': 1},https://github.com/rlcode/reinforcement-learning,{'totalCount': 2515},{'totalCount': 126},{'totalCount': 602},63085
+rust,{'name': 'Rust'},{'totalCount': 3},https://github.com/tensorflow/rust,{'totalCount': 2486},{'totalCount': 103},{'totalCount': 200},31931
+python-is-cool,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/chiphuyen/python-is-cool,{'totalCount': 2480},{'totalCount': 109},{'totalCount': 384},55
+ai-deadlines,{'name': 'HTML'},{'totalCount': 4},https://github.com/abhshkdz/ai-deadlines,{'totalCount': 2480},{'totalCount': 91},{'totalCount': 420},715
+LiteratureDL4Graph,,{'totalCount': 0},https://github.com/DeepGraphLearning/LiteratureDL4Graph,{'totalCount': 2475},{'totalCount': 178},{'totalCount': 499},191
+ltp,{'name': 'C++'},{'totalCount': 8},https://github.com/HIT-SCIR/ltp,{'totalCount': 2474},{'totalCount': 240},{'totalCount': 752},15370
+Ad-papers,{'name': 'Python'},{'totalCount': 1},https://github.com/wzhe06/Ad-papers,{'totalCount': 2470},{'totalCount': 298},{'totalCount': 812},199689
+polyaxon,{'name': 'Python'},{'totalCount': 11},https://github.com/polyaxon/polyaxon,{'totalCount': 2462},{'totalCount': 77},{'totalCount': 221},65619
+MITIE,{'name': 'C++'},{'totalCount': 12},https://github.com/mit-nlp/MITIE,{'totalCount': 2458},{'totalCount': 188},{'totalCount': 453},10944
+telegram-list,,{'totalCount': 0},https://github.com/goq/telegram-list,{'totalCount': 2458},{'totalCount': 207},{'totalCount': 524},1878
+optuna,{'name': 'Python'},{'totalCount': 4},https://github.com/optuna/optuna,{'totalCount': 2458},{'totalCount': 134},{'totalCount': 268},7424
+olivia,{'name': 'Go'},{'totalCount': 2},https://github.com/olivia-ai/olivia,{'totalCount': 2453},{'totalCount': 64},{'totalCount': 205},26221
+kornia,{'name': 'Python'},{'totalCount': 5},https://github.com/kornia/kornia,{'totalCount': 2436},{'totalCount': 82},{'totalCount': 253},31071
+opencvsharp,{'name': 'C#'},{'totalCount': 6},https://github.com/shimat/opencvsharp,{'totalCount': 2409},{'totalCount': 223},{'totalCount': 636},64773
+tensorflow-internals,{'name': 'TeX'},{'totalCount': 2},https://github.com/horance-liu/tensorflow-internals,{'totalCount': 2399},{'totalCount': 153},{'totalCount': 505},106970
+hub,{'name': 'Python'},{'totalCount': 3},https://github.com/tensorflow/hub,{'totalCount': 2367},{'totalCount': 119},{'totalCount': 1260},2342
+gophernotes,{'name': 'Go'},{'totalCount': 3},https://github.com/gopherdata/gophernotes,{'totalCount': 2356},{'totalCount': 70},{'totalCount': 167},20671
+Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,{'name': 'Python'},{'totalCount': 32},https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,{'totalCount': 2349},{'totalCount': 338},{'totalCount': 1095},1804357
+onnxruntime,{'name': 'C++'},{'totalCount': 18},https://github.com/microsoft/onnxruntime,{'totalCount': 2327},{'totalCount': 112},{'totalCount': 536},294669
+pomegranate,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/jmschrei/pomegranate,{'totalCount': 2317},{'totalCount': 108},{'totalCount': 430},50623
+luminoth,{'name': 'Python'},{'totalCount': 4},https://github.com/tryolabs/luminoth,{'totalCount': 2301},{'totalCount': 130},{'totalCount': 392},3121
+rasa_core,{'name': 'Python'},{'totalCount': 5},https://github.com/RasaHQ/rasa_core,{'totalCount': 2297},{'totalCount': 155},{'totalCount': 1047},1059972
+weld,{'name': 'Rust'},{'totalCount': 7},https://github.com/weld-project/weld,{'totalCount': 2291},{'totalCount': 118},{'totalCount': 197},3004
+autogluon,{'name': 'Python'},{'totalCount': 1},https://github.com/awslabs/autogluon,{'totalCount': 2288},{'totalCount': 70},{'totalCount': 273},5480
+ISLR-python,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/JWarmenhoven/ISLR-python,{'totalCount': 2287},{'totalCount': 166},{'totalCount': 1464},21868
+orange3,{'name': 'Python'},{'totalCount': 5},https://github.com/biolab/orange3,{'totalCount': 2276},{'totalCount': 164},{'totalCount': 606},82184
+datascience,,{'totalCount': 0},https://github.com/r0f1/datascience,{'totalCount': 2274},{'totalCount': 119},{'totalCount': 404},1483
+Production-Level-Deep-Learning,,{'totalCount': 0},https://github.com/alirezadir/Production-Level-Deep-Learning,{'totalCount': 2235},{'totalCount': 98},{'totalCount': 296},15549
+Flux.jl,{'name': 'Julia'},{'totalCount': 1},https://github.com/FluxML/Flux.jl,{'totalCount': 2198},{'totalCount': 94},{'totalCount': 355},4844
+omniscidb,{'name': 'C++'},{'totalCount': 16},https://github.com/omnisci/omniscidb,{'totalCount': 2198},{'totalCount': 145},{'totalCount': 305},113368
+byteps,{'name': 'Python'},{'totalCount': 4},https://github.com/bytedance/byteps,{'totalCount': 2198},{'totalCount': 67},{'totalCount': 305},4501
+t81_558_deep_learning,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/jeffheaton/t81_558_deep_learning,{'totalCount': 2192},{'totalCount': 210},{'totalCount': 1169},197278
+AI-Job-Notes,,{'totalCount': 0},https://github.com/amusi/AI-Job-Notes,{'totalCount': 2189},{'totalCount': 89},{'totalCount': 377},2898
+papers,,{'totalCount': 0},https://github.com/aleju/papers,{'totalCount': 2183},{'totalCount': 278},{'totalCount': 416},40247
+tablesaw,{'name': 'Java'},{'totalCount': 3},https://github.com/jtablesaw/tablesaw,{'totalCount': 2171},{'totalCount': 134},{'totalCount': 419},35688
+Deep-Learning-for-Recommendation-Systems,,{'totalCount': 0},https://github.com/robi56/Deep-Learning-for-Recommendation-Systems,{'totalCount': 2162},{'totalCount': 198},{'totalCount': 588},31
+awesome-self-supervised-learning,,{'totalCount': 0},https://github.com/jason718/awesome-self-supervised-learning,{'totalCount': 2151},{'totalCount': 155},{'totalCount': 336},426
+spotlight,{'name': 'Python'},{'totalCount': 2},https://github.com/maciejkula/spotlight,{'totalCount': 2138},{'totalCount': 109},{'totalCount': 323},9222
+deepdetect,{'name': 'C++'},{'totalCount': 7},https://github.com/jolibrain/deepdetect,{'totalCount': 2104},{'totalCount': 136},{'totalCount': 492},104267
+tensorflow-on-raspberry-pi,{'name': 'Python'},{'totalCount': 1},https://github.com/samjabrahams/tensorflow-on-raspberry-pi,{'totalCount': 2088},{'totalCount': 165},{'totalCount': 489},275720
+datasets,{'name': 'Python'},{'totalCount': 4},https://github.com/tensorflow/datasets,{'totalCount': 2065},{'totalCount': 96},{'totalCount': 595},824807
+tangent,{'name': 'Python'},{'totalCount': 1},https://github.com/google/tangent,{'totalCount': 2051},{'totalCount': 69},{'totalCount': 294},25786
+tacotron,{'name': 'Python'},{'totalCount': 1},https://github.com/keithito/tacotron,{'totalCount': 2050},{'totalCount': 159},{'totalCount': 567},115
+ALAE,{'name': 'Python'},{'totalCount': 1},https://github.com/podgorskiy/ALAE,{'totalCount': 2048},{'totalCount': 64},{'totalCount': 288},213029
+DeepLearning,{'name': 'Python'},{'totalCount': 1},https://github.com/MingchaoZhu/DeepLearning,{'totalCount': 2038},{'totalCount': 137},{'totalCount': 444},33326
+lgo,{'name': 'Go'},{'totalCount': 5},https://github.com/yunabe/lgo,{'totalCount': 2025},{'totalCount': 48},{'totalCount': 87},992
+gluon-nlp,{'name': 'Python'},{'totalCount': 8},https://github.com/dmlc/gluon-nlp,{'totalCount': 2024},{'totalCount': 101},{'totalCount': 439},8675
+tensorflow-build-archived,{'name': 'Shell'},{'totalCount': 1},https://github.com/lakshayg/tensorflow-build-archived,{'totalCount': 2021},{'totalCount': 95},{'totalCount': 248},222587
+eli5,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/TeamHG-Memex/eli5,{'totalCount': 2018},{'totalCount': 76},{'totalCount': 263},37429
+client,{'name': 'Python'},{'totalCount': 5},https://github.com/wandb/client,{'totalCount': 1984},{'totalCount': 30},{'totalCount': 114},31132
+Clairvoyant,{'name': 'Python'},{'totalCount': 1},https://github.com/anfederico/Clairvoyant,{'totalCount': 1982},{'totalCount': 144},{'totalCount': 547},10396
+mmlspark,{'name': 'Scala'},{'totalCount': 8},https://github.com/Azure/mmlspark,{'totalCount': 1968},{'totalCount': 116},{'totalCount': 422},4641
+deepvariant,{'name': 'Python'},{'totalCount': 5},https://github.com/google/deepvariant,{'totalCount': 1956},{'totalCount': 166},{'totalCount': 478},103358
+dowhy,{'name': 'Python'},{'totalCount': 2},https://github.com/microsoft/dowhy,{'totalCount': 1954},{'totalCount': 93},{'totalCount': 256},14501
+fe4ml-zh,{'name': 'HTML'},{'totalCount': 3},https://github.com/apachecn/fe4ml-zh,{'totalCount': 1952},{'totalCount': 96},{'totalCount': 557},15236
+neuralcoref,{'name': 'Python'},{'totalCount': 5},https://github.com/huggingface/neuralcoref,{'totalCount': 1943},{'totalCount': 66},{'totalCount': 335},69451
+implicit,{'name': 'Python'},{'totalCount': 4},https://github.com/benfred/implicit,{'totalCount': 1940},{'totalCount': 88},{'totalCount': 411},3803
+awesome-learning-resources,,{'totalCount': 0},https://github.com/lauragift21/awesome-learning-resources,{'totalCount': 1939},{'totalCount': 100},{'totalCount': 362},356
+Neural-Photo-Editor,{'name': 'Python'},{'totalCount': 1},https://github.com/ajbrock/Neural-Photo-Editor,{'totalCount': 1939},{'totalCount': 78},{'totalCount': 181},13104
+texar,{'name': 'Python'},{'totalCount': 2},https://github.com/asyml/texar,{'totalCount': 1933},{'totalCount': 78},{'totalCount': 299},13892
+thinc,{'name': 'Python'},{'totalCount': 3},https://github.com/explosion/thinc,{'totalCount': 1928},{'totalCount': 78},{'totalCount': 172},7870
+HsuanTienLin_MachineLearning,,{'totalCount': 0},https://github.com/RedstoneWill/HsuanTienLin_MachineLearning,{'totalCount': 1870},{'totalCount': 87},{'totalCount': 690},216997
+awesome-quant,,{'totalCount': 0},https://github.com/thuquant/awesome-quant,{'totalCount': 1857},{'totalCount': 254},{'totalCount': 466},73
+catalyst,{'name': 'Python'},{'totalCount': 4},https://github.com/catalyst-team/catalyst,{'totalCount': 1852},{'totalCount': 38},{'totalCount': 197},20259
+TransmogrifAI,{'name': 'Scala'},{'totalCount': 4},https://github.com/salesforce/TransmogrifAI,{'totalCount': 1847},{'totalCount': 154},{'totalCount': 333},117766
+sling,{'name': 'C++'},{'totalCount': 8},https://github.com/google/sling,{'totalCount': 1841},{'totalCount': 119},{'totalCount': 272},5393
+FATE,{'name': 'Python'},{'totalCount': 9},https://github.com/FederatedAI/FATE,{'totalCount': 1841},{'totalCount': 96},{'totalCount': 535},135806
+dm_control,{'name': 'Python'},{'totalCount': 1},https://github.com/deepmind/dm_control,{'totalCount': 1839},{'totalCount': 107},{'totalCount': 300},27424
+scikit-plot,{'name': 'Python'},{'totalCount': 1},https://github.com/reiinakano/scikit-plot,{'totalCount': 1839},{'totalCount': 63},{'totalCount': 221},3119
+Girls-In-AI,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/girls-in-ai/Girls-In-AI,{'totalCount': 1828},{'totalCount': 156},{'totalCount': 311},40794
+image-super-resolution,{'name': 'Python'},{'totalCount': 2},https://github.com/idealo/image-super-resolution,{'totalCount': 1828},{'totalCount': 66},{'totalCount': 333},15288
+face.evoLVe.PyTorch,{'name': 'Python'},{'totalCount': 1},https://github.com/ZhaoJ9014/face.evoLVe.PyTorch,{'totalCount': 1823},{'totalCount': 102},{'totalCount': 443},8212
+awesome-deep-learning-music,{'name': 'TeX'},{'totalCount': 2},https://github.com/ybayle/awesome-deep-learning-music,{'totalCount': 1813},{'totalCount': 138},{'totalCount': 280},5697
+siamese-triplet,{'name': 'Python'},{'totalCount': 1},https://github.com/adambielski/siamese-triplet,{'totalCount': 1806},{'totalCount': 44},{'totalCount': 397},12913
+tensorflow_template_application,{'name': 'Python'},{'totalCount': 10},https://github.com/tobegit3hub/tensorflow_template_application,{'totalCount': 1805},{'totalCount': 191},{'totalCount': 711},46945
+scikit-optimize,{'name': 'Python'},{'totalCount': 3},https://github.com/scikit-optimize/scikit-optimize,{'totalCount': 1802},{'totalCount': 65},{'totalCount': 330},9346
+mars,{'name': 'Python'},{'totalCount': 8},https://github.com/mars-project/mars,{'totalCount': 1777},{'totalCount': 83},{'totalCount': 197},8263
+benchm-ml,{'name': 'R'},{'totalCount': 2},https://github.com/szilard/benchm-ml,{'totalCount': 1770},{'totalCount': 156},{'totalCount': 320},1133
+AI-Blocks,{'name': 'JavaScript'},{'totalCount': 5},https://github.com/MrNothing/AI-Blocks,{'totalCount': 1762},{'totalCount': 105},{'totalCount': 212},34801
+ml-glossary,{'name': 'Python'},{'totalCount': 1},https://github.com/bfortuner/ml-glossary,{'totalCount': 1759},{'totalCount': 112},{'totalCount': 495},5952
+bertviz,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/jessevig/bertviz,{'totalCount': 1729},{'totalCount': 56},{'totalCount': 294},101901
+spark-ml-source-analysis,,{'totalCount': 0},https://github.com/endymecy/spark-ml-source-analysis,{'totalCount': 1714},{'totalCount': 191},{'totalCount': 778},13831
+pai,{'name': 'JavaScript'},{'totalCount': 13},https://github.com/microsoft/pai,{'totalCount': 1708},{'totalCount': 103},{'totalCount': 391},59390
+PyTorch-NLP,{'name': 'Python'},{'totalCount': 2},https://github.com/PetrochukM/PyTorch-NLP,{'totalCount': 1706},{'totalCount': 60},{'totalCount': 198},3054
+nano-neuron,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/trekhleb/nano-neuron,{'totalCount': 1706},{'totalCount': 24},{'totalCount': 80},249
+ml,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/mljs/ml,{'totalCount': 1702},{'totalCount': 74},{'totalCount': 153},7149
+oryx,{'name': 'Java'},{'totalCount': 3},https://github.com/OryxProject/oryx,{'totalCount': 1701},{'totalCount': 219},{'totalCount': 393},7345
+Reco-papers,{'name': 'Python'},{'totalCount': 1},https://github.com/wzhe06/Reco-papers,{'totalCount': 1698},{'totalCount': 150},{'totalCount': 477},177084
+Bender,{'name': 'Swift'},{'totalCount': 4},https://github.com/xmartlabs/Bender,{'totalCount': 1689},{'totalCount': 56},{'totalCount': 87},72720
+crnn,{'name': 'Lua'},{'totalCount': 5},https://github.com/bgshih/crnn,{'totalCount': 1686},{'totalCount': 88},{'totalCount': 478},75
+ranking,{'name': 'Python'},{'totalCount': 4},https://github.com/tensorflow/ranking,{'totalCount': 1686},{'totalCount': 88},{'totalCount': 297},766
+awesome-machine-learning-interpretability,,{'totalCount': 0},https://github.com/jphall663/awesome-machine-learning-interpretability,{'totalCount': 1679},{'totalCount': 128},{'totalCount': 304},388
+stats,{'name': 'Go'},{'totalCount': 2},https://github.com/montanaflynn/stats,{'totalCount': 1678},{'totalCount': 50},{'totalCount': 101},279
+datascience-pizza,,{'totalCount': 0},https://github.com/PizzaDeDados/datascience-pizza,{'totalCount': 1678},{'totalCount': 267},{'totalCount': 400},684
+data-science-interviews,{'name': 'Ruby'},{'totalCount': 3},https://github.com/alexeygrigorev/data-science-interviews,{'totalCount': 1663},{'totalCount': 80},{'totalCount': 365},1169
+Waifu2x-Extension-GUI,{'name': 'C++'},{'totalCount': 4},https://github.com/AaronFeng753/Waifu2x-Extension-GUI,{'totalCount': 1661},{'totalCount': 31},{'totalCount': 171},114338
+Kashgari,{'name': 'Python'},{'totalCount': 1},https://github.com/BrikerMan/Kashgari,{'totalCount': 1660},{'totalCount': 67},{'totalCount': 327},12621
+zi2zi,{'name': 'Python'},{'totalCount': 1},https://github.com/kaonashi-tyc/zi2zi,{'totalCount': 1653},{'totalCount': 67},{'totalCount': 339},46887
+nlp-roadmap,,{'totalCount': 0},https://github.com/graykode/nlp-roadmap,{'totalCount': 1649},{'totalCount': 80},{'totalCount': 258},2737
+MachineLearningNotebooks,{'name': 'Jupyter Notebook'},{'totalCount': 7},https://github.com/Azure/MachineLearningNotebooks,{'totalCount': 1646},{'totalCount': 2238},{'totalCount': 1069},64835
+automl-gs,{'name': 'Python'},{'totalCount': 1},https://github.com/minimaxir/automl-gs,{'totalCount': 1645},{'totalCount': 59},{'totalCount': 146},572
+TensorComprehensions,{'name': 'C++'},{'totalCount': 6},https://github.com/facebookresearch/TensorComprehensions,{'totalCount': 1632},{'totalCount': 112},{'totalCount': 180},38419
+fast-wavenet,{'name': 'Python'},{'totalCount': 2},https://github.com/tomlepaine/fast-wavenet,{'totalCount': 1621},{'totalCount': 101},{'totalCount': 272},313
+ComputeLibrary,{'name': 'C++'},{'totalCount': 6},https://github.com/ARM-software/ComputeLibrary,{'totalCount': 1618},{'totalCount': 224},{'totalCount': 522},260551
+machine-learning,{'name': 'HTML'},{'totalCount': 8},https://github.com/ethen8181/machine-learning,{'totalCount': 1613},{'totalCount': 115},{'totalCount': 355},404653
+turkce-yapay-zeka-kaynaklari,,{'totalCount': 0},https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari,{'totalCount': 1609},{'totalCount': 382},{'totalCount': 257},235
+robosat,{'name': 'Python'},{'totalCount': 4},https://github.com/mapbox/robosat,{'totalCount': 1598},{'totalCount': 164},{'totalCount': 275},1380
+hdbscan,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/scikit-learn-contrib/hdbscan,{'totalCount': 1586},{'totalCount': 55},{'totalCount': 274},25509
+spacy-course,{'name': 'Python'},{'totalCount': 5},https://github.com/ines/spacy-course,{'totalCount': 1576},{'totalCount': 54},{'totalCount': 206},5876
+m2cgen,{'name': 'Python'},{'totalCount': 17},https://github.com/BayesWitnesses/m2cgen,{'totalCount': 1567},{'totalCount': 41},{'totalCount': 136},592
+Deep-Learning-Interview-Book,,{'totalCount': 0},https://github.com/amusi/Deep-Learning-Interview-Book,{'totalCount': 1561},{'totalCount': 100},{'totalCount': 393},2693
+seldon-core,{'name': 'HTML'},{'totalCount': 13},https://github.com/SeldonIO/seldon-core,{'totalCount': 1557},{'totalCount': 62},{'totalCount': 338},106716
+Ai-Learn,,{'totalCount': 0},https://github.com/tangyudi/Ai-Learn,{'totalCount': 1546},{'totalCount': 86},{'totalCount': 439},1297
+yolov3-tf2,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/zzh8829/yolov3-tf2,{'totalCount': 1532},{'totalCount': 63},{'totalCount': 529},4272
+knockknock,{'name': 'Python'},{'totalCount': 1},https://github.com/huggingface/knockknock,{'totalCount': 1517},{'totalCount': 28},{'totalCount': 125},75
+Awesome-Interview,,{'totalCount': 0},https://github.com/Awesome-Interview/Awesome-Interview,{'totalCount': 1515},{'totalCount': 62},{'totalCount': 300},257
+imgclsmob,{'name': 'Python'},{'totalCount': 3},https://github.com/osmr/imgclsmob,{'totalCount': 1491},{'totalCount': 54},{'totalCount': 284},12591
+machine-learning-with-ruby,{'name': 'Ruby'},{'totalCount': 1},https://github.com/arbox/machine-learning-with-ruby,{'totalCount': 1489},{'totalCount': 117},{'totalCount': 123},321
+lore,{'name': 'Python'},{'totalCount': 3},https://github.com/instacart/lore,{'totalCount': 1487},{'totalCount': 108},{'totalCount': 114},1659
+practical-machine-learning-with-python,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/dipanjanS/practical-machine-learning-with-python,{'totalCount': 1486},{'totalCount': 157},{'totalCount': 1202},121254
+pytorch-metric-learning,{'name': 'Python'},{'totalCount': 2},https://github.com/KevinMusgrave/pytorch-metric-learning,{'totalCount': 1477},{'totalCount': 52},{'totalCount': 206},11208
+gosl,{'name': 'Go'},{'totalCount': 10},https://github.com/cpmech/gosl,{'totalCount': 1470},{'totalCount': 68},{'totalCount': 120},21991
+foolbox,{'name': 'Python'},{'totalCount': 3},https://github.com/bethgelab/foolbox,{'totalCount': 1461},{'totalCount': 37},{'totalCount': 262},8329
+CADL,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/pkmital/CADL,{'totalCount': 1460},{'totalCount': 124},{'totalCount': 753},330445
+Machine-Learning-Flappy-Bird,{'name': 'JavaScript'},{'totalCount': 2},https://github.com/ssusnic/Machine-Learning-Flappy-Bird,{'totalCount': 1457},{'totalCount': 86},{'totalCount': 346},485
+auto_ml,{'name': 'Python'},{'totalCount': 1},https://github.com/ClimbsRocks/auto_ml,{'totalCount': 1448},{'totalCount': 100},{'totalCount': 276},1444
+DAT8,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/justmarkham/DAT8,{'totalCount': 1447},{'totalCount': 109},{'totalCount': 801},24092
+TensorKart,{'name': 'Python'},{'totalCount': 1},https://github.com/kevinhughes27/TensorKart,{'totalCount': 1446},{'totalCount': 65},{'totalCount': 231},58905
+EagleEye,{'name': 'Python'},{'totalCount': 3},https://github.com/ThoughtfulDev/EagleEye,{'totalCount': 1443},{'totalCount': 77},{'totalCount': 250},158
+MachineLearning,,{'totalCount': 0},https://github.com/jindongwang/MachineLearning,{'totalCount': 1442},{'totalCount': 150},{'totalCount': 531},286
+NeuroNER,{'name': 'Python'},{'totalCount': 3},https://github.com/Franck-Dernoncourt/NeuroNER,{'totalCount': 1439},{'totalCount': 76},{'totalCount': 420},126745
+capsule-networks,{'name': 'Python'},{'totalCount': 1},https://github.com/gram-ai/capsule-networks,{'totalCount': 1436},{'totalCount': 49},{'totalCount': 292},797
+GDLnotes,{'name': 'Python'},{'totalCount': 1},https://github.com/ahangchen/GDLnotes,{'totalCount': 1432},{'totalCount': 147},{'totalCount': 498},10708
+spark,{'name': 'C#'},{'totalCount': 7},https://github.com/dotnet/spark,{'totalCount': 1428},{'totalCount': 87},{'totalCount': 186},2463
+project_alias,{'name': 'Python'},{'totalCount': 4},https://github.com/bjoernkarmann/project_alias,{'totalCount': 1427},{'totalCount': 61},{'totalCount': 87},40997
+seldon-server,{'name': 'Java'},{'totalCount': 9},https://github.com/SeldonIO/seldon-server,{'totalCount': 1417},{'totalCount': 128},{'totalCount': 287},3685
+awesome-quantum-machine-learning,{'name': 'HTML'},{'totalCount': 1},https://github.com/krishnakumarsekar/awesome-quantum-machine-learning,{'totalCount': 1413},{'totalCount': 185},{'totalCount': 397},10011
+CoreML-in-ARKit,{'name': 'Swift'},{'totalCount': 1},https://github.com/hanleyweng/CoreML-in-ARKit,{'totalCount': 1413},{'totalCount': 60},{'totalCount': 193},25091
+mlr,{'name': 'R'},{'totalCount': 4},https://github.com/mlr-org/mlr,{'totalCount': 1409},{'totalCount': 97},{'totalCount': 361},282347
+Gen.jl,{'name': 'Julia'},{'totalCount': 1},https://github.com/probcomp/Gen.jl,{'totalCount': 1409},{'totalCount': 82},{'totalCount': 130},4429
+minimalRL,{'name': 'Python'},{'totalCount': 1},https://github.com/seungeunrho/minimalRL,{'totalCount': 1409},{'totalCount': 36},{'totalCount': 172},54
+cosin,{'name': 'Java'},{'totalCount': 8},https://github.com/chatopera/cosin,{'totalCount': 1407},{'totalCount': 73},{'totalCount': 448},18226
+keras_to_tensorflow,{'name': 'Python'},{'totalCount': 2},https://github.com/amir-abdi/keras_to_tensorflow,{'totalCount': 1401},{'totalCount': 50},{'totalCount': 448},148
+mAP,{'name': 'Python'},{'totalCount': 1},https://github.com/Cartucho/mAP,{'totalCount': 1399},{'totalCount': 32},{'totalCount': 465},15080
+iOS_ML,,{'totalCount': 0},https://github.com/alexsosn/iOS_ML,{'totalCount': 1398},{'totalCount': 98},{'totalCount': 149},98
+deep-neuroevolution,{'name': 'Python'},{'totalCount': 5},https://github.com/uber-research/deep-neuroevolution,{'totalCount': 1395},{'totalCount': 81},{'totalCount': 264},3801
+keras-contrib,{'name': 'Python'},{'totalCount': 4},https://github.com/keras-team/keras-contrib,{'totalCount': 1387},{'totalCount': 84},{'totalCount': 550},868
+awesome-decision-tree-papers,{'name': 'Python'},{'totalCount': 1},https://github.com/benedekrozemberczki/awesome-decision-tree-papers,{'totalCount': 1376},{'totalCount': 93},{'totalCount': 203},987
+ml-videos,,{'totalCount': 0},https://github.com/dustinvtran/ml-videos,{'totalCount': 1365},{'totalCount': 106},{'totalCount': 185},47
+lightning,{'name': 'Python'},{'totalCount': 6},https://github.com/scikit-learn-contrib/lightning,{'totalCount': 1355},{'totalCount': 39},{'totalCount': 165},7147
+cuml,{'name': 'Cuda'},{'totalCount': 8},https://github.com/rapidsai/cuml,{'totalCount': 1353},{'totalCount': 61},{'totalCount': 208},53933
+hackermath,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/amitkaps/hackermath,{'totalCount': 1346},{'totalCount': 75},{'totalCount': 254},26070
+adblockradio,{'name': 'JavaScript'},{'totalCount': 4},https://github.com/adblockradio/adblockradio,{'totalCount': 1341},{'totalCount': 22},{'totalCount': 41},8804
+awesome-satellite-imagery-datasets,,{'totalCount': 0},https://github.com/chrieke/awesome-satellite-imagery-datasets,{'totalCount': 1341},{'totalCount': 127},{'totalCount': 294},1817
+pydensecrf,{'name': 'C++'},{'totalCount': 4},https://github.com/lucasb-eyer/pydensecrf,{'totalCount': 1339},{'totalCount': 33},{'totalCount': 340},1809
+deepvoice3_pytorch,{'name': 'Python'},{'totalCount': 2},https://github.com/r9y9/deepvoice3_pytorch,{'totalCount': 1334},{'totalCount': 76},{'totalCount': 328},7110
+AndroidTensorFlowMachineLearningExample,{'name': 'Java'},{'totalCount': 1},https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample,{'totalCount': 1331},{'totalCount': 81},{'totalCount': 407},54395
+awesome-embedding-models,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/Hironsan/awesome-embedding-models,{'totalCount': 1329},{'totalCount': 101},{'totalCount': 208},49
+EmojiIntelligence,{'name': 'Swift'},{'totalCount': 1},https://github.com/BilalReffas/EmojiIntelligence,{'totalCount': 1322},{'totalCount': 34},{'totalCount': 76},420
+data-science-question-answer,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/ShuaiW/data-science-question-answer,{'totalCount': 1321},{'totalCount': 72},{'totalCount': 405},2390
+awesome-community-detection,{'name': 'Python'},{'totalCount': 1},https://github.com/benedekrozemberczki/awesome-community-detection,{'totalCount': 1318},{'totalCount': 105},{'totalCount': 227},2331
+trains,{'name': 'Python'},{'totalCount': 1},https://github.com/allegroai/trains,{'totalCount': 1317},{'totalCount': 58},{'totalCount': 160},9102
+TorchCraft,{'name': 'C++'},{'totalCount': 9},https://github.com/TorchCraft/TorchCraft,{'totalCount': 1317},{'totalCount': 94},{'totalCount': 195},8341
+anago,{'name': 'Python'},{'totalCount': 1},https://github.com/Hironsan/anago,{'totalCount': 1313},{'totalCount': 62},{'totalCount': 336},7683
+Awesome-Deep-Learning-Resources,,{'totalCount': 0},https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources,{'totalCount': 1311},{'totalCount': 124},{'totalCount': 244},386
+grenade,{'name': 'Haskell'},{'totalCount': 3},https://github.com/HuwCampbell/grenade,{'totalCount': 1308},{'totalCount': 57},{'totalCount': 73},335
+mne-python,{'name': 'Python'},{'totalCount': 5},https://github.com/mne-tools/mne-python,{'totalCount': 1306},{'totalCount': 85},{'totalCount': 724},121366
+NSFWDetector,{'name': 'Swift'},{'totalCount': 2},https://github.com/lovoo/NSFWDetector,{'totalCount': 1302},{'totalCount': 34},{'totalCount': 74},230
+learn-machine-learning-in-two-months,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/bangoc123/learn-machine-learning-in-two-months,{'totalCount': 1299},{'totalCount': 202},{'totalCount': 373},70759
+deeptraffic,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/lexfridman/deeptraffic,{'totalCount': 1292},{'totalCount': 49},{'totalCount': 191},6208
+Machine-Learning-with-Python,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/tirthajyoti/Machine-Learning-with-Python,{'totalCount': 1291},{'totalCount': 116},{'totalCount': 826},95229
+Machine-Learning-Notes,,{'totalCount': 0},https://github.com/Sophia-11/Machine-Learning-Notes,{'totalCount': 1291},{'totalCount': 98},{'totalCount': 356},57297
+mlfinlab,{'name': 'Python'},{'totalCount': 2},https://github.com/hudson-and-thames/mlfinlab,{'totalCount': 1288},{'totalCount': 108},{'totalCount': 334},25969
+NLP-Models-Tensorflow,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/huseinzol05/NLP-Models-Tensorflow,{'totalCount': 1287},{'totalCount': 81},{'totalCount': 538},48122
+Tengine,{'name': 'C++'},{'totalCount': 8},https://github.com/OAID/Tengine,{'totalCount': 1273},{'totalCount': 111},{'totalCount': 388},6634
+stellargraph,{'name': 'Python'},{'totalCount': 3},https://github.com/stellargraph/stellargraph,{'totalCount': 1272},{'totalCount': 47},{'totalCount': 168},89371
+TensorFlow.NET,{'name': 'C#'},{'totalCount': 6},https://github.com/SciSharp/TensorFlow.NET,{'totalCount': 1271},{'totalCount': 99},{'totalCount': 243},375993
+scattertext,{'name': 'Python'},{'totalCount': 5},https://github.com/JasonKessler/scattertext,{'totalCount': 1268},{'totalCount': 56},{'totalCount': 169},39487
+pytorch-generative-adversarial-networks,{'name': 'Python'},{'totalCount': 1},https://github.com/devnag/pytorch-generative-adversarial-networks,{'totalCount': 1259},{'totalCount': 48},{'totalCount': 410},9
+CVPR2020-Code,,{'totalCount': 0},https://github.com/amusi/CVPR2020-Code,{'totalCount': 1254},{'totalCount': 82},{'totalCount': 210},98
+eos,{'name': 'C++'},{'totalCount': 4},https://github.com/patrikhuber/eos,{'totalCount': 1252},{'totalCount': 98},{'totalCount': 410},14204
+magnitude,{'name': 'Python'},{'totalCount': 1},https://github.com/plasticityai/magnitude,{'totalCount': 1250},{'totalCount': 31},{'totalCount': 90},74093
+infer,{'name': 'C#'},{'totalCount': 9},https://github.com/dotnet/infer,{'totalCount': 1239},{'totalCount': 104},{'totalCount': 184},27593
+spark-py-notebooks,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/jadianes/spark-py-notebooks,{'totalCount': 1237},{'totalCount': 100},{'totalCount': 760},2312
+xcessiv,{'name': 'Python'},{'totalCount': 4},https://github.com/reiinakano/xcessiv,{'totalCount': 1234},{'totalCount': 54},{'totalCount': 99},9467
+pytextrank,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/DerwenAI/pytextrank,{'totalCount': 1231},{'totalCount': 53},{'totalCount': 244},816
+Deep-Learning-Boot-Camp,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/QuantScientist/Deep-Learning-Boot-Camp,{'totalCount': 1229},{'totalCount': 112},{'totalCount': 338},329455
+Forge,{'name': 'Swift'},{'totalCount': 3},https://github.com/hollance/Forge,{'totalCount': 1228},{'totalCount': 66},{'totalCount': 177},191355
+practicalAI-cn,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/MLEveryday/practicalAI-cn,{'totalCount': 1226},{'totalCount': 100},{'totalCount': 306},1291
+GPflow,{'name': 'Python'},{'totalCount': 3},https://github.com/GPflow/GPflow,{'totalCount': 1224},{'totalCount': 79},{'totalCount': 353},66713
+bulbea,{'name': 'Python'},{'totalCount': 2},https://github.com/achillesrasquinha/bulbea,{'totalCount': 1223},{'totalCount': 115},{'totalCount': 362},2768
+Faster-High-Res-Neural-Inpainting,{'name': 'Lua'},{'totalCount': 1},https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting,{'totalCount': 1211},{'totalCount': 48},{'totalCount': 209},38020
+h2o-tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 13},https://github.com/h2oai/h2o-tutorials,{'totalCount': 1209},{'totalCount': 246},{'totalCount': 919},1093199
+fklearn,{'name': 'Python'},{'totalCount': 4},https://github.com/nubank/fklearn,{'totalCount': 1206},{'totalCount': 66},{'totalCount': 146},2071
+Awesome-TensorFlow-Chinese,{'name': 'Python'},{'totalCount': 1},https://github.com/fendouai/Awesome-TensorFlow-Chinese,{'totalCount': 1203},{'totalCount': 90},{'totalCount': 293},24
+gluon-ts,{'name': 'Python'},{'totalCount': 6},https://github.com/awslabs/gluon-ts,{'totalCount': 1203},{'totalCount': 57},{'totalCount': 251},2419
+video2x,{'name': 'Python'},{'totalCount': 3},https://github.com/k4yt3x/video2x,{'totalCount': 1203},{'totalCount': 46},{'totalCount': 126},9693
+decisiontree,{'name': 'Ruby'},{'totalCount': 1},https://github.com/igrigorik/decisiontree,{'totalCount': 1196},{'totalCount': 40},{'totalCount': 121},56
+vvedenie-mashinnoe-obuchenie,,{'totalCount': 0},https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie,{'totalCount': 1192},{'totalCount': 180},{'totalCount': 275},2315
+Deep-Learning-with-PyTorch-Tutorials,{'name': 'Python'},{'totalCount': 2},https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials,{'totalCount': 1190},{'totalCount': 48},{'totalCount': 589},91436
+manifold,{'name': 'JavaScript'},{'totalCount': 7},https://github.com/uber/manifold,{'totalCount': 1188},{'totalCount': 50},{'totalCount': 86},6643
+ml-workspace,{'name': 'Jupyter Notebook'},{'totalCount': 7},https://github.com/ml-tooling/ml-workspace,{'totalCount': 1188},{'totalCount': 35},{'totalCount': 135},12012
+StudyBook,,{'totalCount': 0},https://github.com/changwookjun/StudyBook,{'totalCount': 1176},{'totalCount': 157},{'totalCount': 711},1102316
+uis-rnn,{'name': 'Python'},{'totalCount': 2},https://github.com/google/uis-rnn,{'totalCount': 1174},{'totalCount': 99},{'totalCount': 245},112014
+tnt,{'name': 'Python'},{'totalCount': 2},https://github.com/pytorch/tnt,{'totalCount': 1172},{'totalCount': 41},{'totalCount': 157},549
+blazingsql,{'name': 'C++'},{'totalCount': 8},https://github.com/BlazingDB/blazingsql,{'totalCount': 1171},{'totalCount': 36},{'totalCount': 101},5384
+AmpliGraph,{'name': 'Python'},{'totalCount': 2},https://github.com/Accenture/AmpliGraph,{'totalCount': 1171},{'totalCount': 47},{'totalCount': 113},25225
+hyperlearn,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/danielhanchen/hyperlearn,{'totalCount': 1160},{'totalCount': 79},{'totalCount': 108},32959
+CodeSearchNet,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/github/CodeSearchNet,{'totalCount': 1159},{'totalCount': 43},{'totalCount': 190},29778
+awesome-TS-anomaly-detection,,{'totalCount': 0},https://github.com/rob-med/awesome-TS-anomaly-detection,{'totalCount': 1158},{'totalCount': 72},{'totalCount': 214},65
+root,{'name': 'C++'},{'totalCount': 29},https://github.com/root-project/root,{'totalCount': 1157},{'totalCount': 104},{'totalCount': 638},808254
+forecasting,{'name': 'HTML'},{'totalCount': 7},https://github.com/microsoft/forecasting,{'totalCount': 1154},{'totalCount': 60},{'totalCount': 159},141963
+BentoML,{'name': 'Python'},{'totalCount': 9},https://github.com/bentoml/BentoML,{'totalCount': 1151},{'totalCount': 33},{'totalCount': 122},25739
+mlsql,{'name': 'JavaScript'},{'totalCount': 12},https://github.com/allwefantasy/mlsql,{'totalCount': 1150},{'totalCount': 119},{'totalCount': 410},26867
+machine-learning-surveys,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/metrofun/machine-learning-surveys,{'totalCount': 1144},{'totalCount': 77},{'totalCount': 180},65
+theMLbook,{'name': 'Python'},{'totalCount': 1},https://github.com/aburkov/theMLbook,{'totalCount': 1140},{'totalCount': 103},{'totalCount': 372},3462
+DLTK,{'name': 'Python'},{'totalCount': 1},https://github.com/DLTK/DLTK,{'totalCount': 1137},{'totalCount': 99},{'totalCount': 345},19663
+uTensor,{'name': 'C++'},{'totalCount': 5},https://github.com/uTensor/uTensor,{'totalCount': 1124},{'totalCount': 92},{'totalCount': 140},12893
+gcForest,{'name': 'Python'},{'totalCount': 1},https://github.com/kingfengji/gcForest,{'totalCount': 1117},{'totalCount': 90},{'totalCount': 397},113
+Knet.jl,{'name': 'Julia'},{'totalCount': 10},https://github.com/denizyuret/Knet.jl,{'totalCount': 1113},{'totalCount': 82},{'totalCount': 200},21210
+EliteQuant,,{'totalCount': 0},https://github.com/EliteQuant/EliteQuant,{'totalCount': 1111},{'totalCount': 134},{'totalCount': 282},1173
+python-machine-learning-book-3rd-edition,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/rasbt/python-machine-learning-book-3rd-edition,{'totalCount': 1107},{'totalCount': 66},{'totalCount': 430},164310
+sagemaker-python-sdk,{'name': 'Python'},{'totalCount': 3},https://github.com/aws/sagemaker-python-sdk,{'totalCount': 1106},{'totalCount': 106},{'totalCount': 448},57642
+privacy,{'name': 'Python'},{'totalCount': 4},https://github.com/tensorflow/privacy,{'totalCount': 1102},{'totalCount': 56},{'totalCount': 213},665
+gnes,{'name': 'Python'},{'totalCount': 4},https://github.com/gnes-ai/gnes,{'totalCount': 1101},{'totalCount': 52},{'totalCount': 197},54521
+goml,{'name': 'Go'},{'totalCount': 1},https://github.com/cdipaolo/goml,{'totalCount': 1096},{'totalCount': 75},{'totalCount': 92},970
+flashlight,{'name': 'C++'},{'totalCount': 3},https://github.com/facebookresearch/flashlight,{'totalCount': 1087},{'totalCount': 71},{'totalCount': 135},742
+MLBox,{'name': 'Python'},{'totalCount': 2},https://github.com/AxeldeRomblay/MLBox,{'totalCount': 1080},{'totalCount': 63},{'totalCount': 226},52427
+fastText.py,{'name': 'C++'},{'totalCount': 5},https://github.com/salestock/fastText.py,{'totalCount': 1077},{'totalCount': 48},{'totalCount': 243},329
+vehicle-detection,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/tatsuyah/vehicle-detection,{'totalCount': 1072},{'totalCount': 48},{'totalCount': 153},63021
+Computer-Science-Resources,,{'totalCount': 0},https://github.com/the-akira/Computer-Science-Resources,{'totalCount': 1060},{'totalCount': 58},{'totalCount': 138},1255
+usaddress,{'name': 'Python'},{'totalCount': 1},https://github.com/datamade/usaddress,{'totalCount': 1056},{'totalCount': 37},{'totalCount': 201},6804
+HyperGAN,{'name': 'Python'},{'totalCount': 4},https://github.com/HyperGAN/HyperGAN,{'totalCount': 1055},{'totalCount': 41},{'totalCount': 165},38030
+pytracking,{'name': 'Python'},{'totalCount': 4},https://github.com/visionml/pytracking,{'totalCount': 1053},{'totalCount': 70},{'totalCount': 240},1475
+tslearn,{'name': 'Python'},{'totalCount': 3},https://github.com/tslearn-team/tslearn,{'totalCount': 1052},{'totalCount': 47},{'totalCount': 169},5792
+datumbox-framework,{'name': 'Java'},{'totalCount': 2},https://github.com/datumbox/datumbox-framework,{'totalCount': 1050},{'totalCount': 140},{'totalCount': 282},4605
+tensorrec,{'name': 'Python'},{'totalCount': 1},https://github.com/jfkirk/tensorrec,{'totalCount': 1050},{'totalCount': 66},{'totalCount': 195},640
+Simd,{'name': 'C++'},{'totalCount': 5},https://github.com/ermig1979/Simd,{'totalCount': 1046},{'totalCount': 101},{'totalCount': 245},26822
+torchgan,{'name': 'Python'},{'totalCount': 2},https://github.com/torchgan/torchgan,{'totalCount': 1045},{'totalCount': 26},{'totalCount': 121},24069
+sense2vec,{'name': 'Python'},{'totalCount': 2},https://github.com/explosion/sense2vec,{'totalCount': 1039},{'totalCount': 40},{'totalCount': 181},1172
+spark-sklearn,{'name': 'Python'},{'totalCount': 3},https://github.com/databricks/spark-sklearn,{'totalCount': 1038},{'totalCount': 84},{'totalCount': 222},801
+grobid,{'name': 'Java'},{'totalCount': 12},https://github.com/kermitt2/grobid,{'totalCount': 1038},{'totalCount': 77},{'totalCount': 222},987938
+DeepMoji,{'name': 'Python'},{'totalCount': 1},https://github.com/bfelbo/DeepMoji,{'totalCount': 1037},{'totalCount': 51},{'totalCount': 240},113199
+MTBook,{'name': 'TeX'},{'totalCount': 2},https://github.com/NiuTrans/MTBook,{'totalCount': 1032},{'totalCount': 148},{'totalCount': 349},20642
+tfjs-node,{'name': 'TypeScript'},{'totalCount': 6},https://github.com/tensorflow/tfjs-node,{'totalCount': 1032},{'totalCount': 51},{'totalCount': 97},144392
+Top-Deep-Learning,{'name': 'Python'},{'totalCount': 1},https://github.com/mbadry1/Top-Deep-Learning,{'totalCount': 1031},{'totalCount': 95},{'totalCount': 283},138
+sparkit-learn,{'name': 'Python'},{'totalCount': 3},https://github.com/lensacom/sparkit-learn,{'totalCount': 1029},{'totalCount': 91},{'totalCount': 229},455
+tfx,{'name': 'Python'},{'totalCount': 5},https://github.com/tensorflow/tfx,{'totalCount': 1026},{'totalCount': 85},{'totalCount': 289},147286
+raster-vision,{'name': 'Python'},{'totalCount': 3},https://github.com/azavea/raster-vision,{'totalCount': 1024},{'totalCount': 89},{'totalCount': 232},23833
+fastText_multilingual,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/babylonhealth/fastText_multilingual,{'totalCount': 1024},{'totalCount': 55},{'totalCount': 107},147480
+Awesome-pytorch-list-CNVersion,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion,{'totalCount': 1024},{'totalCount': 49},{'totalCount': 255},936
+AdvancedEAST,{'name': 'Python'},{'totalCount': 1},https://github.com/huoyijie/AdvancedEAST,{'totalCount': 1021},{'totalCount': 41},{'totalCount': 338},3289
+causalml,{'name': 'Python'},{'totalCount': 1},https://github.com/uber/causalml,{'totalCount': 1021},{'totalCount': 43},{'totalCount': 149},24274
+Dragonfire,{'name': 'Python'},{'totalCount': 5},https://github.com/DragonComputer/Dragonfire,{'totalCount': 1019},{'totalCount': 83},{'totalCount': 153},25214
+PointCNN,{'name': 'Python'},{'totalCount': 4},https://github.com/yangyanli/PointCNN,{'totalCount': 1014},{'totalCount': 49},{'totalCount': 291},344
+rusty-machine,{'name': 'Rust'},{'totalCount': 1},https://github.com/AtheMathmo/rusty-machine,{'totalCount': 1013},{'totalCount': 60},{'totalCount': 132},12405
+one-pixel-attack-keras,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/Hyperparticle/one-pixel-attack-keras,{'totalCount': 1013},{'totalCount': 26},{'totalCount': 151},45636
+elasticsearch-learning-to-rank,{'name': 'Java'},{'totalCount': 2},https://github.com/o19s/elasticsearch-learning-to-rank,{'totalCount': 1011},{'totalCount': 78},{'totalCount': 245},1477
+yolo-9000,,{'totalCount': 0},https://github.com/philipperemy/yolo-9000,{'totalCount': 1011},{'totalCount': 71},{'totalCount': 284},181406
+ChineseIDCardOCR,{'name': 'Swift'},{'totalCount': 4},https://github.com/KevinGong2013/ChineseIDCardOCR,{'totalCount': 1010},{'totalCount': 46},{'totalCount': 187},11345
+EffectivePyTorch,,{'totalCount': 0},https://github.com/vahidk/EffectivePyTorch,{'totalCount': 1009},{'totalCount': 46},{'totalCount': 100},22
+awesome-ai-residency,,{'totalCount': 0},https://github.com/dangkhoasdc/awesome-ai-residency,{'totalCount': 1006},{'totalCount': 189},{'totalCount': 125},45
+hercules,{'name': 'Go'},{'totalCount': 6},https://github.com/src-d/hercules,{'totalCount': 994},{'totalCount': 20},{'totalCount': 86},10228
+image-quality-assessment,{'name': 'Python'},{'totalCount': 3},https://github.com/idealo/image-quality-assessment,{'totalCount': 992},{'totalCount': 37},{'totalCount': 261},81900
+AIAlpha,{'name': 'Python'},{'totalCount': 2},https://github.com/VivekPa/AIAlpha,{'totalCount': 990},{'totalCount': 114},{'totalCount': 310},13852
+metric-learn,{'name': 'Python'},{'totalCount': 2},https://github.com/scikit-learn-contrib/metric-learn,{'totalCount': 990},{'totalCount': 49},{'totalCount': 195},10071
+neataptic,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/wagenaartje/neataptic,{'totalCount': 989},{'totalCount': 57},{'totalCount': 212},3219
+Tensorflow-Programs-and-Tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials,{'totalCount': 987},{'totalCount': 60},{'totalCount': 315},360364
+Applying_EANNs,{'name': 'ASP'},{'totalCount': 2},https://github.com/ArztSamuel/Applying_EANNs,{'totalCount': 984},{'totalCount': 96},{'totalCount': 276},20660
+TensorFlow2.0-Examples,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/YunYang1994/TensorFlow2.0-Examples,{'totalCount': 977},{'totalCount': 55},{'totalCount': 406},10633
+jieba-php,{'name': 'PHP'},{'totalCount': 1},https://github.com/fukuball/jieba-php,{'totalCount': 973},{'totalCount': 58},{'totalCount': 208},40213
+five-video-classification-methods,{'name': 'Python'},{'totalCount': 1},https://github.com/harvitronix/five-video-classification-methods,{'totalCount': 969},{'totalCount': 55},{'totalCount': 414},321
+gorse,{'name': 'Go'},{'totalCount': 5},https://github.com/zhenghaoz/gorse,{'totalCount': 966},{'totalCount': 43},{'totalCount': 91},7447
+awesome_time_series_in_python,,{'totalCount': 0},https://github.com/MaxBenChrist/awesome_time_series_in_python,{'totalCount': 960},{'totalCount': 72},{'totalCount': 183},65
+ml-visuals,,{'totalCount': 0},https://github.com/dair-ai/ml-visuals,{'totalCount': 957},{'totalCount': 32},{'totalCount': 116},142
+simulator,{'name': 'C#'},{'totalCount': 10},https://github.com/lgsvl/simulator,{'totalCount': 950},{'totalCount': 80},{'totalCount': 268},10544
+volcano,{'name': 'Go'},{'totalCount': 4},https://github.com/volcano-sh/volcano,{'totalCount': 945},{'totalCount': 59},{'totalCount': 201},53356
+reformer-pytorch,{'name': 'Python'},{'totalCount': 1},https://github.com/lucidrains/reformer-pytorch,{'totalCount': 944},{'totalCount': 35},{'totalCount': 119},36236
+nolearn,{'name': 'Python'},{'totalCount': 1},https://github.com/dnouri/nolearn,{'totalCount': 937},{'totalCount': 52},{'totalCount': 261},820
+modeldb,{'name': 'Python'},{'totalCount': 13},https://github.com/VertaAI/modeldb,{'totalCount': 934},{'totalCount': 72},{'totalCount': 181},19210
+pycm,{'name': 'Python'},{'totalCount': 6},https://github.com/sepandhaghighi/pycm,{'totalCount': 933},{'totalCount': 32},{'totalCount': 83},7036
+sockeye,{'name': 'Python'},{'totalCount': 6},https://github.com/awslabs/sockeye,{'totalCount': 933},{'totalCount': 46},{'totalCount': 260},8419
+DLInterview,,{'totalCount': 0},https://github.com/ShanghaiTechAIClub/DLInterview,{'totalCount': 931},{'totalCount': 42},{'totalCount': 183},35
+nlp-library,,{'totalCount': 0},https://github.com/mihail911/nlp-library,{'totalCount': 925},{'totalCount': 66},{'totalCount': 78},61
+AIF360,{'name': 'Python'},{'totalCount': 4},https://github.com/IBM/AIF360,{'totalCount': 924},{'totalCount': 64},{'totalCount': 285},4627
+DeepAudioClassification,{'name': 'Python'},{'totalCount': 1},https://github.com/despoisj/DeepAudioClassification,{'totalCount': 923},{'totalCount': 42},{'totalCount': 195},64
+FreeML,,{'totalCount': 0},https://github.com/Shujian2015/FreeML,{'totalCount': 922},{'totalCount': 126},{'totalCount': 435},79
+nativescript-plugin-firebase,{'name': 'TypeScript'},{'totalCount': 11},https://github.com/EddyVerbruggen/nativescript-plugin-firebase,{'totalCount': 921},{'totalCount': 51},{'totalCount': 366},49645
+machine-learning-open-source,,{'totalCount': 0},https://github.com/Mybridge/machine-learning-open-source,{'totalCount': 917},{'totalCount': 541},{'totalCount': 125},9547
+Skater,{'name': 'Python'},{'totalCount': 2},https://github.com/oracle/Skater,{'totalCount': 914},{'totalCount': 56},{'totalCount': 151},374371
+awesome-robotics-libraries,,{'totalCount': 0},https://github.com/jslee02/awesome-robotics-libraries,{'totalCount': 913},{'totalCount': 97},{'totalCount': 235},274
+nips2017,,{'totalCount': 0},https://github.com/hindupuravinash/nips2017,{'totalCount': 912},{'totalCount': 84},{'totalCount': 206},544
+EvalAI,{'name': 'Python'},{'totalCount': 6},https://github.com/Cloud-CV/EvalAI,{'totalCount': 909},{'totalCount': 51},{'totalCount': 463},44114
+datacleaner,{'name': 'Python'},{'totalCount': 2},https://github.com/rhiever/datacleaner,{'totalCount': 908},{'totalCount': 56},{'totalCount': 175},633
+devol,{'name': 'Python'},{'totalCount': 2},https://github.com/joeddav/devol,{'totalCount': 908},{'totalCount': 46},{'totalCount': 106},87
+releasing-research-code,,{'totalCount': 0},https://github.com/paperswithcode/releasing-research-code,{'totalCount': 906},{'totalCount': 33},{'totalCount': 108},584
+AdvBox,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/advboxes/AdvBox,{'totalCount': 904},{'totalCount': 57},{'totalCount': 194},104153
+Awesome-Mobile-Machine-Learning,,{'totalCount': 0},https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning,{'totalCount': 903},{'totalCount': 74},{'totalCount': 126},1601
+TensorFlow-From-Zero-To-One,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/amusi/TensorFlow-From-Zero-To-One,{'totalCount': 901},{'totalCount': 46},{'totalCount': 272},781
+Optimus,{'name': 'Jupyter Notebook'},{'totalCount': 7},https://github.com/ironmussa/Optimus,{'totalCount': 894},{'totalCount': 40},{'totalCount': 180},106989
+nlp_paper_summaries,,{'totalCount': 0},https://github.com/dair-ai/nlp_paper_summaries,{'totalCount': 894},{'totalCount': 67},{'totalCount': 103},1785
+morph-net,{'name': 'Python'},{'totalCount': 2},https://github.com/google-research/morph-net,{'totalCount': 891},{'totalCount': 35},{'totalCount': 140},6359
+wheels,,{'totalCount': 0},https://github.com/mind/wheels,{'totalCount': 887},{'totalCount': 56},{'totalCount': 108},40
+ml-road,{'name': 'Python'},{'totalCount': 1},https://github.com/yanshengjia/ml-road,{'totalCount': 881},{'totalCount': 73},{'totalCount': 413},352312
+data-science-complete-tutorial,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/edyoda/data-science-complete-tutorial,{'totalCount': 880},{'totalCount': 58},{'totalCount': 311},55089
+Awesome-System-for-Machine-Learning,,{'totalCount': 0},https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning,{'totalCount': 880},{'totalCount': 80},{'totalCount': 125},710
+nlp-with-ruby,{'name': 'Ruby'},{'totalCount': 1},https://github.com/arbox/nlp-with-ruby,{'totalCount': 879},{'totalCount': 56},{'totalCount': 49},1235
+cleanlab,{'name': 'Python'},{'totalCount': 2},https://github.com/cgnorthcutt/cleanlab,{'totalCount': 876},{'totalCount': 29},{'totalCount': 90},66614
+Deep-Learning-Book-Chapter-Summaries,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries,{'totalCount': 869},{'totalCount': 52},{'totalCount': 260},6062
+DoYouEvenLearn,,{'totalCount': 0},https://github.com/BAILOOL/DoYouEvenLearn,{'totalCount': 868},{'totalCount': 63},{'totalCount': 100},135
+Play-with-Machine-Learning-Algorithms,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms,{'totalCount': 868},{'totalCount': 51},{'totalCount': 482},75390
+Machine-Learning-Links-And-Lessons-Learned,,{'totalCount': 0},https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned,{'totalCount': 864},{'totalCount': 71},{'totalCount': 299},216
+awesome-text-summarization,,{'totalCount': 0},https://github.com/icoxfog417/awesome-text-summarization,{'totalCount': 863},{'totalCount': 40},{'totalCount': 154},620
+CapsGNN,{'name': 'Python'},{'totalCount': 1},https://github.com/benedekrozemberczki/CapsGNN,{'totalCount': 863},{'totalCount': 26},{'totalCount': 150},4876
+BitVision,{'name': 'JavaScript'},{'totalCount': 2},https://github.com/shobrook/BitVision,{'totalCount': 860},{'totalCount': 38},{'totalCount': 88},211873
+FlappyBirdRL,{'name': 'JavaScript'},{'totalCount': 4},https://github.com/SarvagyaVaish/FlappyBirdRL,{'totalCount': 859},{'totalCount': 57},{'totalCount': 222},40072
+Pix2Pix,{'name': 'C#'},{'totalCount': 3},https://github.com/keijiro/Pix2Pix,{'totalCount': 858},{'totalCount': 61},{'totalCount': 113},294
+chainerrl,{'name': 'Python'},{'totalCount': 2},https://github.com/chainer/chainerrl,{'totalCount': 857},{'totalCount': 76},{'totalCount': 190},14465
+feast,{'name': 'Java'},{'totalCount': 9},https://github.com/feast-dev/feast,{'totalCount': 854},{'totalCount': 50},{'totalCount': 138},12761
+bayesian-machine-learning,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/krasserm/bayesian-machine-learning,{'totalCount': 852},{'totalCount': 55},{'totalCount': 235},24731
+addons,{'name': 'Python'},{'totalCount': 6},https://github.com/tensorflow/addons,{'totalCount': 852},{'totalCount': 53},{'totalCount': 257},4963
+RecSys,,{'totalCount': 0},https://github.com/mJackie/RecSys,{'totalCount': 851},{'totalCount': 49},{'totalCount': 225},44172
+Turing.jl,{'name': 'Julia'},{'totalCount': 3},https://github.com/TuringLang/Turing.jl,{'totalCount': 850},{'totalCount': 54},{'totalCount': 111},59950
+CatPapers,{'name': 'Python'},{'totalCount': 1},https://github.com/junyanz/CatPapers,{'totalCount': 849},{'totalCount': 50},{'totalCount': 81},12478
+fastFM,{'name': 'Python'},{'totalCount': 3},https://github.com/ibayer/fastFM,{'totalCount': 846},{'totalCount': 31},{'totalCount': 185},4878
+AI-Chip,{'name': 'PHP'},{'totalCount': 1},https://github.com/basicmi/AI-Chip,{'totalCount': 845},{'totalCount': 199},{'totalCount': 167},116883
+owl,{'name': 'OCaml'},{'totalCount': 7},https://github.com/owlbarn/owl,{'totalCount': 845},{'totalCount': 53},{'totalCount': 73},15162
+sparkling-water,{'name': 'Scala'},{'totalCount': 9},https://github.com/h2oai/sparkling-water,{'totalCount': 844},{'totalCount': 173},{'totalCount': 345},35431
+tensorly,{'name': 'Python'},{'totalCount': 3},https://github.com/tensorly/tensorly,{'totalCount': 840},{'totalCount': 34},{'totalCount': 167},1084
+EdgeML,{'name': 'C++'},{'totalCount': 13},https://github.com/microsoft/EdgeML,{'totalCount': 835},{'totalCount': 61},{'totalCount': 219},89449
+petastorm,{'name': 'Python'},{'totalCount': 4},https://github.com/uber/petastorm,{'totalCount': 835},{'totalCount': 41},{'totalCount': 142},2473
+machine-learning-asset-management,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/firmai/machine-learning-asset-management,{'totalCount': 835},{'totalCount': 64},{'totalCount': 256},66
+sklearn-porter,{'name': 'Python'},{'totalCount': 3},https://github.com/nok/sklearn-porter,{'totalCount': 832},{'totalCount': 30},{'totalCount': 105},2819
+RubixML,{'name': 'PHP'},{'totalCount': 1},https://github.com/RubixML/RubixML,{'totalCount': 831},{'totalCount': 34},{'totalCount': 57},6224
+MachineLearning,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/carefree0910/MachineLearning,{'totalCount': 831},{'totalCount': 63},{'totalCount': 616},54881
+bayeslite,{'name': 'Python'},{'totalCount': 4},https://github.com/probcomp/bayeslite,{'totalCount': 831},{'totalCount': 62},{'totalCount': 58},8024
+WikiSQL,{'name': 'HTML'},{'totalCount': 3},https://github.com/salesforce/WikiSQL,{'totalCount': 828},{'totalCount': 56},{'totalCount': 208},52042
+MeshCNN,{'name': 'Python'},{'totalCount': 2},https://github.com/ranahanocka/MeshCNN,{'totalCount': 825},{'totalCount': 43},{'totalCount': 129},3646
+FaceRank,{'name': 'Python'},{'totalCount': 1},https://github.com/fendouai/FaceRank,{'totalCount': 822},{'totalCount': 47},{'totalCount': 199},1317
+twitter-sentiment-analysis,{'name': 'Python'},{'totalCount': 1},https://github.com/abdulfatir/twitter-sentiment-analysis,{'totalCount': 821},{'totalCount': 44},{'totalCount': 381},2442
+pystan,{'name': 'Python'},{'totalCount': 4},https://github.com/stan-dev/pystan,{'totalCount': 818},{'totalCount': 54},{'totalCount': 167},55975
+pipcook,{'name': 'C++'},{'totalCount': 10},https://github.com/alibaba/pipcook,{'totalCount': 813},{'totalCount': 27},{'totalCount': 52},6387
+YOLO-CoreML-MPSNNGraph,{'name': 'Swift'},{'totalCount': 2},https://github.com/hollance/YOLO-CoreML-MPSNNGraph,{'totalCount': 811},{'totalCount': 38},{'totalCount': 163},232146
+APKiD,{'name': 'YARA'},{'totalCount': 4},https://github.com/rednaga/APKiD,{'totalCount': 807},{'totalCount': 59},{'totalCount': 152},10119
+keras-tcn,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/philipperemy/keras-tcn,{'totalCount': 807},{'totalCount': 37},{'totalCount': 228},3389
+kur,{'name': 'Python'},{'totalCount': 1},https://github.com/deepgram/kur,{'totalCount': 806},{'totalCount': 50},{'totalCount': 104},1871
+plato-research-dialogue-system,{'name': 'Python'},{'totalCount': 4},https://github.com/uber-research/plato-research-dialogue-system,{'totalCount': 805},{'totalCount': 55},{'totalCount': 147},9950
+gplearn,{'name': 'Python'},{'totalCount': 1},https://github.com/trevorstephens/gplearn,{'totalCount': 802},{'totalCount': 46},{'totalCount': 125},6927
+high-school-guide-to-machine-learning,,{'totalCount': 0},https://github.com/kjaisingh/high-school-guide-to-machine-learning,{'totalCount': 800},{'totalCount': 45},{'totalCount': 83},44
+awesome-anomaly-detection,,{'totalCount': 0},https://github.com/hoya012/awesome-anomaly-detection,{'totalCount': 800},{'totalCount': 73},{'totalCount': 189},2111
+model-optimization,{'name': 'Python'},{'totalCount': 4},https://github.com/tensorflow/model-optimization,{'totalCount': 799},{'totalCount': 60},{'totalCount': 156},1072
+papers-I-read,{'name': 'CSS'},{'totalCount': 3},https://github.com/shagunsodhani/papers-I-read,{'totalCount': 798},{'totalCount': 135},{'totalCount': 63},10241
+djl,{'name': 'Java'},{'totalCount': 13},https://github.com/awslabs/djl,{'totalCount': 797},{'totalCount': 44},{'totalCount': 105},15039
+DialoGPT,{'name': 'Python'},{'totalCount': 3},https://github.com/microsoft/DialoGPT,{'totalCount': 789},{'totalCount': 39},{'totalCount': 112},45829
+creme,{'name': 'Python'},{'totalCount': 3},https://github.com/creme-ml/creme,{'totalCount': 784},{'totalCount': 42},{'totalCount': 92},21059
+EconML,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/microsoft/EconML,{'totalCount': 784},{'totalCount': 54},{'totalCount': 159},25730
+nlpaug,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/makcedward/nlpaug,{'totalCount': 775},{'totalCount': 19},{'totalCount': 103},2492
+tensorflow_object_counting_api,{'name': 'Python'},{'totalCount': 1},https://github.com/ahmetozlu/tensorflow_object_counting_api,{'totalCount': 771},{'totalCount': 46},{'totalCount': 334},339101
+SimpleHTR,{'name': 'Python'},{'totalCount': 1},https://github.com/githubharald/SimpleHTR,{'totalCount': 771},{'totalCount': 48},{'totalCount': 425},80645
+tensorflow_scala,{'name': 'Scala'},{'totalCount': 5},https://github.com/eaplatanios/tensorflow_scala,{'totalCount': 769},{'totalCount': 68},{'totalCount': 83},45278
+awesome-sentiment-analysis,,{'totalCount': 0},https://github.com/xiamx/awesome-sentiment-analysis,{'totalCount': 768},{'totalCount': 58},{'totalCount': 144},39
+insuranceqa-corpus-zh,{'name': 'Python'},{'totalCount': 1},https://github.com/chatopera/insuranceqa-corpus-zh,{'totalCount': 768},{'totalCount': 53},{'totalCount': 277},578890
+AI-for-Security-Learning,,{'totalCount': 0},https://github.com/404notf0und/AI-for-Security-Learning,{'totalCount': 764},{'totalCount': 56},{'totalCount': 178},137
+neuralconvo,{'name': 'Lua'},{'totalCount': 1},https://github.com/macournoyer/neuralconvo,{'totalCount': 764},{'totalCount': 77},{'totalCount': 192},91
+attention-ocr,{'name': 'Python'},{'totalCount': 1},https://github.com/emedvedev/attention-ocr,{'totalCount': 763},{'totalCount': 41},{'totalCount': 205},254
+AB3DMOT,{'name': 'Python'},{'totalCount': 1},https://github.com/xinshuoweng/AB3DMOT,{'totalCount': 762},{'totalCount': 40},{'totalCount': 191},60543
+python_autocomplete,{'name': 'Python'},{'totalCount': 1},https://github.com/vpj/python_autocomplete,{'totalCount': 758},{'totalCount': 43},{'totalCount': 107},80754
+Evolutionary-Algorithm,{'name': 'Python'},{'totalCount': 1},https://github.com/MorvanZhou/Evolutionary-Algorithm,{'totalCount': 754},{'totalCount': 57},{'totalCount': 487},2313
+FaceRecognition-in-ARKit,{'name': 'Swift'},{'totalCount': 2},https://github.com/NovatecConsulting/FaceRecognition-in-ARKit,{'totalCount': 754},{'totalCount': 42},{'totalCount': 101},11981
+tensorflow-tutorial,,{'totalCount': 0},https://github.com/wagamamaz/tensorflow-tutorial,{'totalCount': 750},{'totalCount': 66},{'totalCount': 212},8
+karateclub,{'name': 'Python'},{'totalCount': 1},https://github.com/benedekrozemberczki/karateclub,{'totalCount': 746},{'totalCount': 30},{'totalCount': 67},16556
+AI_Sudoku,{'name': 'Python'},{'totalCount': 1},https://github.com/neeru1207/AI_Sudoku,{'totalCount': 746},{'totalCount': 28},{'totalCount': 93},34875
+HelloFace,{'name': 'HTML'},{'totalCount': 3},https://github.com/becauseofAI/HelloFace,{'totalCount': 743},{'totalCount': 58},{'totalCount': 167},13476
+pytorch-toolbelt,{'name': 'Python'},{'totalCount': 2},https://github.com/BloodAxe/pytorch-toolbelt,{'totalCount': 741},{'totalCount': 26},{'totalCount': 55},2074
+TensorFlow.jl,{'name': 'Julia'},{'totalCount': 3},https://github.com/malmaud/TensorFlow.jl,{'totalCount': 740},{'totalCount': 45},{'totalCount': 97},3525
+emotion-recognition-neural-networks,{'name': 'Python'},{'totalCount': 1},https://github.com/isseu/emotion-recognition-neural-networks,{'totalCount': 736},{'totalCount': 47},{'totalCount': 308},15131
+voxelmorph,{'name': 'Python'},{'totalCount': 2},https://github.com/voxelmorph/voxelmorph,{'totalCount': 736},{'totalCount': 46},{'totalCount': 253},131903
+sparklyr,{'name': 'R'},{'totalCount': 7},https://github.com/sparklyr/sparklyr,{'totalCount': 735},{'totalCount': 84},{'totalCount': 263},73673
+ProjectFib,{'name': 'Python'},{'totalCount': 4},https://github.com/anantdgoel/ProjectFib,{'totalCount': 735},{'totalCount': 96},{'totalCount': 185},593
+boltzmann-machines,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/yell/boltzmann-machines,{'totalCount': 735},{'totalCount': 35},{'totalCount': 115},371493
+keract,{'name': 'Python'},{'totalCount': 1},https://github.com/philipperemy/keract,{'totalCount': 735},{'totalCount': 30},{'totalCount': 146},4277
+modAL,{'name': 'Python'},{'totalCount': 2},https://github.com/modAL-python/modAL,{'totalCount': 734},{'totalCount': 31},{'totalCount': 133},9433
+coco-annotator,{'name': 'Vue'},{'totalCount': 7},https://github.com/jsbroks/coco-annotator,{'totalCount': 731},{'totalCount': 31},{'totalCount': 173},1281
+DeepLearning.scala,{'name': 'Scala'},{'totalCount': 1},https://github.com/ThoughtWorksInc/DeepLearning.scala,{'totalCount': 730},{'totalCount': 77},{'totalCount': 83},8278
+AutoDL,{'name': 'Python'},{'totalCount': 1},https://github.com/DeepWisdom/AutoDL,{'totalCount': 730},{'totalCount': 22},{'totalCount': 141},4215
+PyGame-Learning-Environment,{'name': 'Python'},{'totalCount': 2},https://github.com/ntasfi/PyGame-Learning-Environment,{'totalCount': 729},{'totalCount': 35},{'totalCount': 164},8250
+Interactive_Tools,,{'totalCount': 0},https://github.com/Machine-Learning-Tokyo/Interactive_Tools,{'totalCount': 726},{'totalCount': 39},{'totalCount': 76},29535
+awesome-mlss,,{'totalCount': 0},https://github.com/sshkhr/awesome-mlss,{'totalCount': 724},{'totalCount': 118},{'totalCount': 91},240
+universal-data-tool,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/UniversalDataTool/universal-data-tool,{'totalCount': 722},{'totalCount': 21},{'totalCount': 48},45720
+Zygote.jl,{'name': 'Julia'},{'totalCount': 2},https://github.com/FluxML/Zygote.jl,{'totalCount': 721},{'totalCount': 51},{'totalCount': 108},2086
+machine-learning-curriculum,,{'totalCount': 0},https://github.com/off99555/machine-learning-curriculum,{'totalCount': 720},{'totalCount': 71},{'totalCount': 188},568
+spacy-transformers,{'name': 'Python'},{'totalCount': 3},https://github.com/explosion/spacy-transformers,{'totalCount': 720},{'totalCount': 31},{'totalCount': 84},853
+scikit-learn-tips,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/justmarkham/scikit-learn-tips,{'totalCount': 718},{'totalCount': 70},{'totalCount': 169},261
+notes,,{'totalCount': 0},https://github.com/brylevkirill/notes,{'totalCount': 717},{'totalCount': 80},{'totalCount': 171},21806
+awesome-AIOps,,{'totalCount': 0},https://github.com/linjinjin123/awesome-AIOps,{'totalCount': 711},{'totalCount': 80},{'totalCount': 196},58
+musicinformationretrieval.com,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/stevetjoa/musicinformationretrieval.com,{'totalCount': 710},{'totalCount': 53},{'totalCount': 275},169230
+lycheejs,{'name': 'JavaScript'},{'totalCount': 7},https://github.com/Artificial-Engineering/lycheejs,{'totalCount': 705},{'totalCount': 67},{'totalCount': 105},47213
+NumSharp,{'name': 'C#'},{'totalCount': 3},https://github.com/SciSharp/NumSharp,{'totalCount': 701},{'totalCount': 68},{'totalCount': 126},32761
+jubatus,{'name': 'C++'},{'totalCount': 7},https://github.com/jubatus/jubatus,{'totalCount': 701},{'totalCount': 90},{'totalCount': 144},11029
+learning-nlp,{'name': 'Python'},{'totalCount': 3},https://github.com/nlpinaction/learning-nlp,{'totalCount': 701},{'totalCount': 38},{'totalCount': 643},251449
+grt,{'name': 'C++'},{'totalCount': 9},https://github.com/nickgillian/grt,{'totalCount': 699},{'totalCount': 94},{'totalCount': 248},14428
+DS-Take-Home,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/JifuZhao/DS-Take-Home,{'totalCount': 697},{'totalCount': 30},{'totalCount': 393},8422
+klassify,{'name': 'JavaScript'},{'totalCount': 5},https://github.com/fatiherikli/klassify,{'totalCount': 697},{'totalCount': 22},{'totalCount': 48},277
+MLPB,{'name': 'R'},{'totalCount': 2},https://github.com/ben519/MLPB,{'totalCount': 696},{'totalCount': 87},{'totalCount': 267},334
+zvt,{'name': 'Python'},{'totalCount': 4},https://github.com/zvtvz/zvt,{'totalCount': 696},{'totalCount': 54},{'totalCount': 219},240822
+osim-rl,{'name': 'Python'},{'totalCount': 1},https://github.com/stanfordnmbl/osim-rl,{'totalCount': 695},{'totalCount': 56},{'totalCount': 199},31393
+deepmedic,{'name': 'Python'},{'totalCount': 1},https://github.com/deepmedic/deepmedic,{'totalCount': 693},{'totalCount': 64},{'totalCount': 276},41438
+CNNGestureRecognizer,{'name': 'Python'},{'totalCount': 1},https://github.com/asingh33/CNNGestureRecognizer,{'totalCount': 693},{'totalCount': 41},{'totalCount': 291},17574
+variational-autoencoder,{'name': 'Python'},{'totalCount': 1},https://github.com/altosaar/variational-autoencoder,{'totalCount': 691},{'totalCount': 29},{'totalCount': 185},42
+data-science-on-gcp,{'name': 'Jupyter Notebook'},{'totalCount': 7},https://github.com/GoogleCloudPlatform/data-science-on-gcp,{'totalCount': 691},{'totalCount': 69},{'totalCount': 405},4450
+conversational-datasets,{'name': 'Python'},{'totalCount': 3},https://github.com/PolyAI-LDN/conversational-datasets,{'totalCount': 690},{'totalCount': 50},{'totalCount': 103},182
+CoreMLHelpers,{'name': 'Swift'},{'totalCount': 2},https://github.com/hollance/CoreMLHelpers,{'totalCount': 690},{'totalCount': 35},{'totalCount': 91},948
+simple_tensorflow_serving,{'name': 'JavaScript'},{'totalCount': 15},https://github.com/tobegit3hub/simple_tensorflow_serving,{'totalCount': 688},{'totalCount': 27},{'totalCount': 179},27311
+ML-KWS-for-MCU,{'name': 'C'},{'totalCount': 5},https://github.com/ARM-software/ML-KWS-for-MCU,{'totalCount': 688},{'totalCount': 74},{'totalCount': 299},19911
+markdown-syntax-zhtw,{'name': 'HTML'},{'totalCount': 4},https://github.com/othree/markdown-syntax-zhtw,{'totalCount': 684},{'totalCount': 62},{'totalCount': 778},335
+convolutional-pose-machines-tensorflow,{'name': 'Python'},{'totalCount': 1},https://github.com/timctho/convolutional-pose-machines-tensorflow,{'totalCount': 683},{'totalCount': 40},{'totalCount': 256},116940
+torchMoji,{'name': 'Python'},{'totalCount': 1},https://github.com/huggingface/torchMoji,{'totalCount': 683},{'totalCount': 34},{'totalCount': 111},2474
+pyclustering,{'name': 'Python'},{'totalCount': 7},https://github.com/annoviko/pyclustering,{'totalCount': 683},{'totalCount': 34},{'totalCount': 174},33866
+image-text-localization-recognition,,{'totalCount': 0},https://github.com/whitelok/image-text-localization-recognition,{'totalCount': 683},{'totalCount': 62},{'totalCount': 186},187
+graphvite,{'name': 'C++'},{'totalCount': 5},https://github.com/DeepGraphLearning/graphvite,{'totalCount': 683},{'totalCount': 26},{'totalCount': 93},5746
+tf-encrypted,{'name': 'Python'},{'totalCount': 6},https://github.com/tf-encrypted/tf-encrypted,{'totalCount': 682},{'totalCount': 42},{'totalCount': 110},22302
+awesome-AI-books,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/zslucky/awesome-AI-books,{'totalCount': 680},{'totalCount': 51},{'totalCount': 211},474
+MLJ.jl,{'name': 'TeX'},{'totalCount': 2},https://github.com/alan-turing-institute/MLJ.jl,{'totalCount': 678},{'totalCount': 39},{'totalCount': 91},19412
+eaopt,{'name': 'Go'},{'totalCount': 1},https://github.com/MaxHalford/eaopt,{'totalCount': 676},{'totalCount': 29},{'totalCount': 70},555
+nlp,{'name': 'Python'},{'totalCount': 4},https://github.com/makcedward/nlp,{'totalCount': 676},{'totalCount': 45},{'totalCount': 199},2328
+AoE,{'name': 'C++'},{'totalCount': 11},https://github.com/didi/AoE,{'totalCount': 675},{'totalCount': 44},{'totalCount': 100},56471
+pysc2-examples,{'name': 'Python'},{'totalCount': 2},https://github.com/chris-chris/pysc2-examples,{'totalCount': 675},{'totalCount': 37},{'totalCount': 348},5196
+sciblog_support,{'name': 'Jupyter Notebook'},{'totalCount': 12},https://github.com/miguelgfierro/sciblog_support,{'totalCount': 675},{'totalCount': 36},{'totalCount': 152},62028
+POT,{'name': 'Python'},{'totalCount': 2},https://github.com/PythonOT/POT,{'totalCount': 674},{'totalCount': 37},{'totalCount': 161},43313
+MobileNet-CoreML,{'name': 'Swift'},{'totalCount': 2},https://github.com/hollance/MobileNet-CoreML,{'totalCount': 674},{'totalCount': 31},{'totalCount': 98},16709
+zmNinja,{'name': 'JavaScript'},{'totalCount': 6},https://github.com/pliablepixels/zmNinja,{'totalCount': 671},{'totalCount': 69},{'totalCount': 206},105279
+Awesome-Quant-Machine-Learning-Trading,,{'totalCount': 0},https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading,{'totalCount': 666},{'totalCount': 89},{'totalCount': 209},29
+Arraymancer,{'name': 'Nim'},{'totalCount': 4},https://github.com/mratsim/Arraymancer,{'totalCount': 665},{'totalCount': 38},{'totalCount': 60},3714
+kube-batch,{'name': 'Go'},{'totalCount': 6},https://github.com/kubernetes-sigs/kube-batch,{'totalCount': 663},{'totalCount': 56},{'totalCount': 198},47026
+kaggle-titanic,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/agconti/kaggle-titanic,{'totalCount': 661},{'totalCount': 45},{'totalCount': 546},7796
+context-encoder,{'name': 'Lua'},{'totalCount': 2},https://github.com/pathak22/context-encoder,{'totalCount': 661},{'totalCount': 37},{'totalCount': 178},6441
+awesome-google-colab,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/firmai/awesome-google-colab,{'totalCount': 661},{'totalCount': 24},{'totalCount': 112},1649
+TextureSynthesis,{'name': 'C#'},{'totalCount': 1},https://github.com/mxgmn/TextureSynthesis,{'totalCount': 660},{'totalCount': 34},{'totalCount': 38},95
+tensorflow-on-arm,{'name': 'Shell'},{'totalCount': 2},https://github.com/lhelontra/tensorflow-on-arm,{'totalCount': 659},{'totalCount': 43},{'totalCount': 179},234
+keras-attention,{'name': 'Python'},{'totalCount': 1},https://github.com/datalogue/keras-attention,{'totalCount': 659},{'totalCount': 27},{'totalCount': 224},15999
+NN-SVG,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/alexlenail/NN-SVG,{'totalCount': 656},{'totalCount': 14},{'totalCount': 120},370
+JData,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/xiaoming-qxm/JData,{'totalCount': 651},{'totalCount': 60},{'totalCount': 342},255
+NLP-Knowledge-Graph,,{'totalCount': 0},https://github.com/lihanghang/NLP-Knowledge-Graph,{'totalCount': 650},{'totalCount': 46},{'totalCount': 175},529800
+featexp,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/abhayspawar/featexp,{'totalCount': 650},{'totalCount': 25},{'totalCount': 140},3238
+JSAT,{'name': 'Java'},{'totalCount': 1},https://github.com/EdwardRaff/JSAT,{'totalCount': 641},{'totalCount': 69},{'totalCount': 192},4019
+medicaltorch,{'name': 'Python'},{'totalCount': 1},https://github.com/perone/medicaltorch,{'totalCount': 641},{'totalCount': 48},{'totalCount': 96},808
+pyts,{'name': 'Python'},{'totalCount': 1},https://github.com/johannfaouzi/pyts,{'totalCount': 641},{'totalCount': 17},{'totalCount': 72},7668
+bindsnet,{'name': 'Python'},{'totalCount': 2},https://github.com/BindsNET/bindsnet,{'totalCount': 640},{'totalCount': 35},{'totalCount': 164},81434
+opencv-machine-learning,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/mbeyeler/opencv-machine-learning,{'totalCount': 639},{'totalCount': 64},{'totalCount': 365},76253
+loglizer,{'name': 'Python'},{'totalCount': 1},https://github.com/logpai/loglizer,{'totalCount': 638},{'totalCount': 68},{'totalCount': 234},11077
+stanford_self_driving_car_code,{'name': 'C++'},{'totalCount': 5},https://github.com/emmjaykay/stanford_self_driving_car_code,{'totalCount': 636},{'totalCount': 48},{'totalCount': 283},12041
+semantic-segmentation-editor,{'name': 'JavaScript'},{'totalCount': 4},https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor,{'totalCount': 636},{'totalCount': 41},{'totalCount': 196},2525
+data-science-interview-questions-and-answers,,{'totalCount': 0},https://github.com/iamtodor/data-science-interview-questions-and-answers,{'totalCount': 635},{'totalCount': 34},{'totalCount': 150},1869
+nilearn,{'name': 'Python'},{'totalCount': 5},https://github.com/nilearn/nilearn,{'totalCount': 635},{'totalCount': 77},{'totalCount': 352},25976
+scanpy,{'name': 'Python'},{'totalCount': 2},https://github.com/theislab/scanpy,{'totalCount': 634},{'totalCount': 46},{'totalCount': 237},29013
+captcha-break,{'name': 'C++'},{'totalCount': 4},https://github.com/nladuo/captcha-break,{'totalCount': 632},{'totalCount': 40},{'totalCount': 203},54229
+imglab,{'name': 'HTML'},{'totalCount': 3},https://github.com/NaturalIntelligence/imglab,{'totalCount': 631},{'totalCount': 37},{'totalCount': 351},211398
+awesome-interpretable-machine-learning,{'name': 'Python'},{'totalCount': 2},https://github.com/lopusz/awesome-interpretable-machine-learning,{'totalCount': 631},{'totalCount': 51},{'totalCount': 91},1540
+NeuralKart,{'name': 'Lua'},{'totalCount': 2},https://github.com/rameshvarun/NeuralKart,{'totalCount': 630},{'totalCount': 20},{'totalCount': 51},10572
+causalnex,{'name': 'Python'},{'totalCount': 3},https://github.com/quantumblacklabs/causalnex,{'totalCount': 630},{'totalCount': 32},{'totalCount': 59},8409
+PassGAN,{'name': 'Python'},{'totalCount': 1},https://github.com/brannondorsey/PassGAN,{'totalCount': 630},{'totalCount': 26},{'totalCount': 130},27310
+Android-TensorFlow-Lite-Example,{'name': 'Java'},{'totalCount': 1},https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example,{'totalCount': 629},{'totalCount': 23},{'totalCount': 190},19767
+translate,{'name': 'Python'},{'totalCount': 3},https://github.com/pytorch/translate,{'totalCount': 627},{'totalCount': 42},{'totalCount': 132},2456
+openTSNE,{'name': 'Python'},{'totalCount': 6},https://github.com/pavlin-policar/openTSNE,{'totalCount': 626},{'totalCount': 24},{'totalCount': 71},52040
+MachineLearningStocks,{'name': 'Python'},{'totalCount': 1},https://github.com/robertmartin8/MachineLearningStocks,{'totalCount': 623},{'totalCount': 86},{'totalCount': 237},7551
+Evil,{'name': 'Swift'},{'totalCount': 4},https://github.com/evilgix/Evil,{'totalCount': 623},{'totalCount': 23},{'totalCount': 85},3283
+advertorch,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/BorealisAI/advertorch,{'totalCount': 623},{'totalCount': 22},{'totalCount': 90},8501
+cv-papers,,{'totalCount': 0},https://github.com/yizt/cv-papers,{'totalCount': 620},{'totalCount': 36},{'totalCount': 188},82586
+pmdarima,{'name': 'Python'},{'totalCount': 5},https://github.com/alkaline-ml/pmdarima,{'totalCount': 618},{'totalCount': 26},{'totalCount': 125},68850
+Papers-Literature-ML-DL-RL-AI,,{'totalCount': 0},https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI,{'totalCount': 616},{'totalCount': 57},{'totalCount': 320},425787
+Coursera,{'name': 'Jupyter Notebook'},{'totalCount': 11},https://github.com/shenweichen/Coursera,{'totalCount': 614},{'totalCount': 41},{'totalCount': 476},75368
+food-101-keras,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/stratospark/food-101-keras,{'totalCount': 614},{'totalCount': 28},{'totalCount': 212},101070
+DL-NLP-Readings,{'name': 'TeX'},{'totalCount': 1},https://github.com/IsaacChanghau/DL-NLP-Readings,{'totalCount': 613},{'totalCount': 74},{'totalCount': 205},1521581
+lazydata,{'name': 'Python'},{'totalCount': 2},https://github.com/rstojnic/lazydata,{'totalCount': 613},{'totalCount': 20},{'totalCount': 23},266
+dist-keras,{'name': 'Python'},{'totalCount': 4},https://github.com/cerndb/dist-keras,{'totalCount': 612},{'totalCount': 48},{'totalCount': 158},57240
+tch-rs,{'name': 'Rust'},{'totalCount': 7},https://github.com/LaurentMazare/tch-rs,{'totalCount': 612},{'totalCount': 26},{'totalCount': 59},1586
+frugally-deep,{'name': 'C++'},{'totalCount': 3},https://github.com/Dobiasd/frugally-deep,{'totalCount': 611},{'totalCount': 43},{'totalCount': 134},3053
+CTRmodel,{'name': 'Scala'},{'totalCount': 2},https://github.com/wzhe06/CTRmodel,{'totalCount': 609},{'totalCount': 45},{'totalCount': 194},36743
+mlens,{'name': 'Python'},{'totalCount': 2},https://github.com/flennerhag/mlens,{'totalCount': 609},{'totalCount': 27},{'totalCount': 76},10428
+tensorflow-ue4,{'name': 'C++'},{'totalCount': 4},https://github.com/getnamo/tensorflow-ue4,{'totalCount': 609},{'totalCount': 68},{'totalCount': 119},461
+vectorious,{'name': 'TypeScript'},{'totalCount': 2},https://github.com/mateogianolio/vectorious,{'totalCount': 608},{'totalCount': 16},{'totalCount': 30},4188
+keras-idiomatic-programmer,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer,{'totalCount': 608},{'totalCount': 51},{'totalCount': 219},97200
+LightCTR,{'name': 'C++'},{'totalCount': 5},https://github.com/cnkuangshi/LightCTR,{'totalCount': 605},{'totalCount': 62},{'totalCount': 141},9871
+nodejs-dialogflow,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/googleapis/nodejs-dialogflow,{'totalCount': 605},{'totalCount': 46},{'totalCount': 221},3369
+pytorch-cpp,{'name': 'C++'},{'totalCount': 4},https://github.com/prabhuomkar/pytorch-cpp,{'totalCount': 604},{'totalCount': 35},{'totalCount': 75},357
+opencv,{'name': 'C++'},{'totalCount': 3},https://github.com/bytefish/opencv,{'totalCount': 603},{'totalCount': 106},{'totalCount': 406},3906
+DeepLearningMugenKnock,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/yoyoyo-yo/DeepLearningMugenKnock,{'totalCount': 601},{'totalCount': 40},{'totalCount': 71},243194
+FfDL,{'name': 'Go'},{'totalCount': 10},https://github.com/IBM/FfDL,{'totalCount': 601},{'totalCount': 75},{'totalCount': 174},26659
+nlp-in-practice,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/kavgan/nlp-in-practice,{'totalCount': 600},{'totalCount': 39},{'totalCount': 534},96208
+pyswarms,{'name': 'Python'},{'totalCount': 4},https://github.com/ljvmiranda921/pyswarms,{'totalCount': 598},{'totalCount': 26},{'totalCount': 197},56250
+AI-Job-Recommend,,{'totalCount': 0},https://github.com/amusi/AI-Job-Recommend,{'totalCount': 597},{'totalCount': 45},{'totalCount': 74},1108
+hyperparameter_hunter,{'name': 'Python'},{'totalCount': 3},https://github.com/HunterMcGushion/hyperparameter_hunter,{'totalCount': 596},{'totalCount': 25},{'totalCount': 72},7616
+tiramisu,{'name': 'Jupyter Notebook'},{'totalCount': 9},https://github.com/Tiramisu-Compiler/tiramisu,{'totalCount': 594},{'totalCount': 50},{'totalCount': 71},231301
+cookbook-2nd,{'name': 'Python'},{'totalCount': 5},https://github.com/ipython-books/cookbook-2nd,{'totalCount': 593},{'totalCount': 37},{'totalCount': 165},47943
+tf-estimator-tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/GoogleCloudPlatform/tf-estimator-tutorials,{'totalCount': 593},{'totalCount': 57},{'totalCount': 190},14225
+deep-learning-guide,,{'totalCount': 0},https://github.com/sannykim/deep-learning-guide,{'totalCount': 591},{'totalCount': 27},{'totalCount': 124},93
+vearch,{'name': 'Go'},{'totalCount': 4},https://github.com/vearch/vearch,{'totalCount': 589},{'totalCount': 45},{'totalCount': 115},20655
+awesome-fashion-ai,,{'totalCount': 0},https://github.com/ayushidalmia/awesome-fashion-ai,{'totalCount': 589},{'totalCount': 74},{'totalCount': 153},53
+notes,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/chrisalbon/notes,{'totalCount': 588},{'totalCount': 39},{'totalCount': 245},51821
+ngboost,{'name': 'Python'},{'totalCount': 3},https://github.com/stanfordmlgroup/ngboost,{'totalCount': 586},{'totalCount': 32},{'totalCount': 98},10862
+dm-haiku,{'name': 'Python'},{'totalCount': 3},https://github.com/deepmind/dm-haiku,{'totalCount': 585},{'totalCount': 16},{'totalCount': 39},761
+euclidesdb,{'name': 'C++'},{'totalCount': 5},https://github.com/perone/euclidesdb,{'totalCount': 585},{'totalCount': 32},{'totalCount': 25},1854
+adaptive,{'name': 'Python'},{'totalCount': 2},https://github.com/python-adaptive/adaptive,{'totalCount': 585},{'totalCount': 14},{'totalCount': 30},2736
+musegan,{'name': 'Python'},{'totalCount': 2},https://github.com/salu133445/musegan,{'totalCount': 586},{'totalCount': 44},{'totalCount': 174},75236
+awesome-question-answering,,{'totalCount': 0},https://github.com/dapurv5/awesome-question-answering,{'totalCount': 584},{'totalCount': 56},{'totalCount': 143},24
+madmom,{'name': 'Python'},{'totalCount': 1},https://github.com/CPJKU/madmom,{'totalCount': 583},{'totalCount': 34},{'totalCount': 101},6303
+sdc,{'name': 'Python'},{'totalCount': 7},https://github.com/IntelPython/sdc,{'totalCount': 583},{'totalCount': 29},{'totalCount': 55},15816
+ascii_art,{'name': 'C'},{'totalCount': 1},https://github.com/symisc/ascii_art,{'totalCount': 580},{'totalCount': 25},{'totalCount': 63},166
+enclosure-picroft,{'name': 'Shell'},{'totalCount': 1},https://github.com/MycroftAI/enclosure-picroft,{'totalCount': 580},{'totalCount': 95},{'totalCount': 136},393
+node-tensorflow,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/nikhilk/node-tensorflow,{'totalCount': 579},{'totalCount': 53},{'totalCount': 52},91
+magpie,{'name': 'Python'},{'totalCount': 1},https://github.com/inspirehep/magpie,{'totalCount': 578},{'totalCount': 41},{'totalCount': 172},95373
+Kaggler,{'name': 'Python'},{'totalCount': 3},https://github.com/jeongyoonlee/Kaggler,{'totalCount': 576},{'totalCount': 45},{'totalCount': 136},2141
+MobileFace,{'name': 'Python'},{'totalCount': 2},https://github.com/becauseofAI/MobileFace,{'totalCount': 575},{'totalCount': 37},{'totalCount': 158},304631
+kafka-streams-machine-learning-examples,{'name': 'Java'},{'totalCount': 2},https://github.com/kaiwaehner/kafka-streams-machine-learning-examples,{'totalCount': 574},{'totalCount': 56},{'totalCount': 203},54016
+juice,{'name': 'Rust'},{'totalCount': 7},https://github.com/spearow/juice,{'totalCount': 574},{'totalCount': 37},{'totalCount': 48},13958
+awesome-gradient-boosting-papers,{'name': 'Python'},{'totalCount': 1},https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers,{'totalCount': 574},{'totalCount': 30},{'totalCount': 100},1126
+proteinnet,{'name': 'Python'},{'totalCount': 1},https://github.com/aqlaboratory/proteinnet,{'totalCount': 573},{'totalCount': 48},{'totalCount': 100},219
+softlearning,{'name': 'Python'},{'totalCount': 2},https://github.com/rail-berkeley/softlearning,{'totalCount': 573},{'totalCount': 28},{'totalCount': 128},13689
+test-tube,{'name': 'JavaScript'},{'totalCount': 5},https://github.com/williamFalcon/test-tube,{'totalCount': 573},{'totalCount': 18},{'totalCount': 51},1517
+torchbearer,{'name': 'Python'},{'totalCount': 1},https://github.com/pytorchbearer/torchbearer,{'totalCount': 572},{'totalCount': 24},{'totalCount': 58},8245
+dll,{'name': 'C++'},{'totalCount': 4},https://github.com/wichtounet/dll,{'totalCount': 571},{'totalCount': 57},{'totalCount': 143},17565
+spacy-models,{'name': 'Python'},{'totalCount': 1},https://github.com/explosion/spacy-models,{'totalCount': 571},{'totalCount': 35},{'totalCount': 121},1141
+StockPricePrediction,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/scorpionhiccup/StockPricePrediction,{'totalCount': 570},{'totalCount': 56},{'totalCount': 267},7898
+deep_learning_and_the_game_of_go,{'name': 'Python'},{'totalCount': 7},https://github.com/maxpumperla/deep_learning_and_the_game_of_go,{'totalCount': 570},{'totalCount': 61},{'totalCount': 213},328084
+GIMP-ML,{'name': 'Python'},{'totalCount': 6},https://github.com/kritiksoman/GIMP-ML,{'totalCount': 570},{'totalCount': 17},{'totalCount': 33},1256
+kaggle_ndsb2017,{'name': 'Python'},{'totalCount': 1},https://github.com/juliandewit/kaggle_ndsb2017,{'totalCount': 569},{'totalCount': 28},{'totalCount': 264},73
+reversi-alpha-zero,{'name': 'Python'},{'totalCount': 3},https://github.com/mokemokechicken/reversi-alpha-zero,{'totalCount': 569},{'totalCount': 51},{'totalCount': 151},1265
+texar-pytorch,{'name': 'Python'},{'totalCount': 2},https://github.com/asyml/texar-pytorch,{'totalCount': 569},{'totalCount': 21},{'totalCount': 77},3050
+awesome-ml-courses,,{'totalCount': 0},https://github.com/luspr/awesome-ml-courses,{'totalCount': 568},{'totalCount': 35},{'totalCount': 74},13
+DALEX,{'name': 'Python'},{'totalCount': 2},https://github.com/ModelOriented/DALEX,{'totalCount': 568},{'totalCount': 27},{'totalCount': 81},196705
+baikal,{'name': 'Python'},{'totalCount': 3},https://github.com/alegonz/baikal,{'totalCount': 567},{'totalCount': 19},{'totalCount': 25},619
+Machine-Learning-with-Python,{'name': 'Python'},{'totalCount': 2},https://github.com/devAmoghS/Machine-Learning-with-Python,{'totalCount': 566},{'totalCount': 23},{'totalCount': 107},785
+kmcuda,{'name': 'Jupyter Notebook'},{'totalCount': 6},https://github.com/src-d/kmcuda,{'totalCount': 566},{'totalCount': 31},{'totalCount': 115},720
+awesome-ml-demos-with-ios,{'name': 'Python'},{'totalCount': 1},https://github.com/motlabs/awesome-ml-demos-with-ios,{'totalCount': 564},{'totalCount': 35},{'totalCount': 76},236679
+SpeedTorch,{'name': 'Python'},{'totalCount': 1},https://github.com/Santosh-Gupta/SpeedTorch,{'totalCount': 564},{'totalCount': 25},{'totalCount': 35},217
+machine-learning-octave,{'name': 'MATLAB'},{'totalCount': 1},https://github.com/trekhleb/machine-learning-octave,{'totalCount': 563},{'totalCount': 49},{'totalCount': 164},10960
+TonY,{'name': 'Java'},{'totalCount': 5},https://github.com/linkedin/TonY,{'totalCount': 562},{'totalCount': 51},{'totalCount': 123},2420
+MemN2N-babi-python,{'name': 'Python'},{'totalCount': 1},https://github.com/vinhkhuc/MemN2N-babi-python,{'totalCount': 561},{'totalCount': 42},{'totalCount': 142},16394
+machine_learning_refined,{'name': 'Python'},{'totalCount': 6},https://github.com/jermwatt/machine_learning_refined,{'totalCount': 560},{'totalCount': 59},{'totalCount': 230},420322
+siamese-fc,{'name': 'MATLAB'},{'totalCount': 2},https://github.com/bertinetto/siamese-fc,{'totalCount': 557},{'totalCount': 34},{'totalCount': 218},3074
+AIX360,{'name': 'Python'},{'totalCount': 2},https://github.com/IBM/AIX360,{'totalCount': 555},{'totalCount': 29},{'totalCount': 118},363009
+mario-ai,{'name': 'Lua'},{'totalCount': 1},https://github.com/aleju/mario-ai,{'totalCount': 555},{'totalCount': 46},{'totalCount': 125},538
+talisman,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/Yomguithereal/talisman,{'totalCount': 554},{'totalCount': 15},{'totalCount': 35},3694
+jenetics,{'name': 'Java'},{'totalCount': 11},https://github.com/jenetics/jenetics,{'totalCount': 554},{'totalCount': 40},{'totalCount': 108},76462
+elki,{'name': 'Java'},{'totalCount': 5},https://github.com/elki-project/elki,{'totalCount': 552},{'totalCount': 56},{'totalCount': 258},52197
+Windows-Machine-Learning,{'name': 'C++'},{'totalCount': 9},https://github.com/microsoft/Windows-Machine-Learning,{'totalCount': 548},{'totalCount': 73},{'totalCount': 258},122423
+language,{'name': 'Python'},{'totalCount': 5},https://github.com/google-research/language,{'totalCount': 547},{'totalCount': 48},{'totalCount': 147},1798
+tensorflow-value-iteration-networks,{'name': 'Python'},{'totalCount': 1},https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks,{'totalCount': 546},{'totalCount': 29},{'totalCount': 123},460
+minisom,{'name': 'Python'},{'totalCount': 1},https://github.com/JustGlowing/minisom,{'totalCount': 546},{'totalCount': 25},{'totalCount': 177},9649
+awesome-ai-usecases,,{'totalCount': 0},https://github.com/JosPolfliet/awesome-ai-usecases,{'totalCount': 545},{'totalCount': 50},{'totalCount': 76},19
+K-Nearest-Neighbors-with-Dynamic-Time-Warping,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping,{'totalCount': 544},{'totalCount': 24},{'totalCount': 172},62416
+Data-science-best-resources,,{'totalCount': 0},https://github.com/tirthajyoti/Data-science-best-resources,{'totalCount': 541},{'totalCount': 52},{'totalCount': 228},8692
+few-shot,{'name': 'Python'},{'totalCount': 1},https://github.com/oscarknagg/few-shot,{'totalCount': 541},{'totalCount': 15},{'totalCount': 101},16934
+papers,,{'totalCount': 0},https://github.com/abhshkdz/papers,{'totalCount': 540},{'totalCount': 73},{'totalCount': 112},62
+data-science-career,,{'totalCount': 0},https://github.com/firmai/data-science-career,{'totalCount': 536},{'totalCount': 19},{'totalCount': 74},706
+ConvChain,{'name': 'C#'},{'totalCount': 1},https://github.com/mxgmn/ConvChain,{'totalCount': 535},{'totalCount': 33},{'totalCount': 31},30
+thundergbm,{'name': 'C++'},{'totalCount': 6},https://github.com/Xtra-Computing/thundergbm,{'totalCount': 535},{'totalCount': 21},{'totalCount': 64},15103
+saliency,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/PAIR-code/saliency,{'totalCount': 533},{'totalCount': 28},{'totalCount': 113},257954
+layer,{'name': 'Scheme'},{'totalCount': 2},https://github.com/cloudkj/layer,{'totalCount': 530},{'totalCount': 13},{'totalCount': 16},405
+alibi,{'name': 'Python'},{'totalCount': 2},https://github.com/SeldonIO/alibi,{'totalCount': 530},{'totalCount': 24},{'totalCount': 57},8166
+labnotebook,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/henripal/labnotebook,{'totalCount': 529},{'totalCount': 20},{'totalCount': 38},4028
+scikit-multilearn,{'name': 'Python'},{'totalCount': 4},https://github.com/scikit-multilearn/scikit-multilearn,{'totalCount': 527},{'totalCount': 32},{'totalCount': 107},46035
+graph2vec,{'name': 'Python'},{'totalCount': 1},https://github.com/benedekrozemberczki/graph2vec,{'totalCount': 525},{'totalCount': 18},{'totalCount': 85},214
+eo-learn,{'name': 'Python'},{'totalCount': 3},https://github.com/sentinel-hub/eo-learn,{'totalCount': 524},{'totalCount': 51},{'totalCount': 170},372600
+Coursera-Machine-Learning-Stanford,{'name': 'MATLAB'},{'totalCount': 1},https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford,{'totalCount': 523},{'totalCount': 39},{'totalCount': 454},166034
+keras2cpp,{'name': 'C++'},{'totalCount': 3},https://github.com/pplonski/keras2cpp,{'totalCount': 523},{'totalCount': 35},{'totalCount': 131},1055
+hyperband,{'name': 'Python'},{'totalCount': 1},https://github.com/zygmuntz/hyperband,{'totalCount': 522},{'totalCount': 19},{'totalCount': 68},379
+machine-learning-articles,,{'totalCount': 0},https://github.com/Mybridge/machine-learning-articles,{'totalCount': 520},{'totalCount': 792},{'totalCount': 43},10989
+business-machine-learning,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/firmai/business-machine-learning,{'totalCount': 518},{'totalCount': 42},{'totalCount': 151},422
+Solid,{'name': 'Python'},{'totalCount': 1},https://github.com/100/Solid,{'totalCount': 517},{'totalCount': 9},{'totalCount': 43},274
+glimpse-android,{'name': 'Kotlin'},{'totalCount': 2},https://github.com/the-super-toys/glimpse-android,{'totalCount': 514},{'totalCount': 19},{'totalCount': 22},19909
+awesome-ai-ml-dl,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/neomatrix369/awesome-ai-ml-dl,{'totalCount': 510},{'totalCount': 54},{'totalCount': 148},55221
+data-science-your-way,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/jadianes/data-science-your-way,{'totalCount': 508},{'totalCount': 53},{'totalCount': 239},9527
+VisualSearchServer,{'name': 'Python'},{'totalCount': 4},https://github.com/AKSHAYUBHAT/VisualSearchServer,{'totalCount': 507},{'totalCount': 43},{'totalCount': 114},143710
+Tracking-with-darkflow,{'name': 'Python'},{'totalCount': 1},https://github.com/bendidi/Tracking-with-darkflow,{'totalCount': 507},{'totalCount': 31},{'totalCount': 170},37
+FaceRecognitionDotNet,{'name': 'C#'},{'totalCount': 9},https://github.com/takuya-takeuchi/FaceRecognitionDotNet,{'totalCount': 507},{'totalCount': 46},{'totalCount': 133},15964
+skll,{'name': 'Python'},{'totalCount': 2},https://github.com/EducationalTestingService/skll,{'totalCount': 506},{'totalCount': 46},{'totalCount': 59},34446
+vecstack,{'name': 'Python'},{'totalCount': 1},https://github.com/vecxoz/vecstack,{'totalCount': 506},{'totalCount': 19},{'totalCount': 62},549
+Data-Science-Competitions,,{'totalCount': 0},https://github.com/interviewBubble/Data-Science-Competitions,{'totalCount': 503},{'totalCount': 48},{'totalCount': 122},108
+eps,{'name': 'Ruby'},{'totalCount': 3},https://github.com/ankane/eps,{'totalCount': 503},{'totalCount': 17},{'totalCount': 9},870
+resin,{'name': 'C#'},{'totalCount': 4},https://github.com/kreeben/resin,{'totalCount': 501},{'totalCount': 20},{'totalCount': 33},24526
+fiber,{'name': 'Python'},{'totalCount': 7},https://github.com/uber/fiber,{'totalCount': 500},{'totalCount': 16},{'totalCount': 45},8483
+mit-ml,{'name': 'Python'},{'totalCount': 1},https://github.com/yoyoyohamapi/mit-ml,{'totalCount': 499},{'totalCount': 30},{'totalCount': 182},19167
+DeepCamera,,{'totalCount': 0},https://github.com/SharpAI/DeepCamera,{'totalCount': 498},{'totalCount': 36},{'totalCount': 74},14558
+mlhub123,,{'totalCount': 0},https://github.com/howie6879/mlhub123,{'totalCount': 496},{'totalCount': 25},{'totalCount': 130},48
+ML-NOTE,,{'totalCount': 0},https://github.com/yhangf/ML-NOTE,{'totalCount': 496},{'totalCount': 34},{'totalCount': 104},26536
+bigartm,{'name': 'C++'},{'totalCount': 8},https://github.com/bigartm/bigartm,{'totalCount': 495},{'totalCount': 44},{'totalCount': 101},17536
+awesome-relation-extraction,,{'totalCount': 0},https://github.com/roomylee/awesome-relation-extraction,{'totalCount': 494},{'totalCount': 36},{'totalCount': 72},34
+nsfw_model,{'name': 'Python'},{'totalCount': 3},https://github.com/GantMan/nsfw_model,{'totalCount': 494},{'totalCount': 22},{'totalCount': 115},410
+How-to-learn-Deep-Learning,,{'totalCount': 0},https://github.com/emilwallner/How-to-learn-Deep-Learning,{'totalCount': 493},{'totalCount': 33},{'totalCount': 80},117425
+dockerfiles,{'name': 'Dockerfile'},{'totalCount': 2},https://github.com/Kaixhin/dockerfiles,{'totalCount': 491},{'totalCount': 31},{'totalCount': 128},422
+tensor_stream,{'name': 'Ruby'},{'totalCount': 4},https://github.com/jedld/tensor_stream,{'totalCount': 491},{'totalCount': 33},{'totalCount': 15},5283
+jblas,{'name': 'Java'},{'totalCount': 5},https://github.com/jblas-project/jblas,{'totalCount': 489},{'totalCount': 41},{'totalCount': 129},50102
+machine-learning-for-trading,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/stefan-jansen/machine-learning-for-trading,{'totalCount': 488},{'totalCount': 56},{'totalCount': 213},414266
+self-driving-toy-car,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/experiencor/self-driving-toy-car,{'totalCount': 487},{'totalCount': 26},{'totalCount': 72},598272
+pennylane,{'name': 'Python'},{'totalCount': 3},https://github.com/XanaduAI/pennylane,{'totalCount': 485},{'totalCount': 29},{'totalCount': 132},27580
+nfstream,{'name': 'Python'},{'totalCount': 3},https://github.com/aouinizied/nfstream,{'totalCount': 484},{'totalCount': 16},{'totalCount': 37},34434
+tfpyth,{'name': 'Python'},{'totalCount': 1},https://github.com/BlackHC/tfpyth,{'totalCount': 484},{'totalCount': 23},{'totalCount': 75},15
+awesome-CoreML-models,,{'totalCount': 0},https://github.com/SwiftBrain/awesome-CoreML-models,{'totalCount': 484},{'totalCount': 31},{'totalCount': 54},17875
+Cranium,{'name': 'C'},{'totalCount': 2},https://github.com/100/Cranium,{'totalCount': 482},{'totalCount': 23},{'totalCount': 50},102
+ATM,{'name': 'Python'},{'totalCount': 2},https://github.com/HDI-Project/ATM,{'totalCount': 482},{'totalCount': 57},{'totalCount': 121},8987
+this-word-does-not-exist,{'name': 'Python'},{'totalCount': 6},https://github.com/turtlesoupy/this-word-does-not-exist,{'totalCount': 481},{'totalCount': 10},{'totalCount': 35},39260
+Feature-Selection,{'name': 'Python'},{'totalCount': 2},https://github.com/duxuhao/Feature-Selection,{'totalCount': 480},{'totalCount': 24},{'totalCount': 176},10507
+cfnet,{'name': 'MATLAB'},{'totalCount': 2},https://github.com/bertinetto/cfnet,{'totalCount': 480},{'totalCount': 29},{'totalCount': 153},133
+ml-interview,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/ShuaiW/ml-interview,{'totalCount': 479},{'totalCount': 29},{'totalCount': 157},58
+Awesome-GANs,{'name': 'Python'},{'totalCount': 1},https://github.com/kozistr/Awesome-GANs,{'totalCount': 479},{'totalCount': 24},{'totalCount': 130},80819
+heamy,{'name': 'Python'},{'totalCount': 2},https://github.com/rushter/heamy,{'totalCount': 479},{'totalCount': 12},{'totalCount': 108},73
+stylegan2-pytorch,{'name': 'Python'},{'totalCount': 1},https://github.com/lucidrains/stylegan2-pytorch,{'totalCount': 479},{'totalCount': 23},{'totalCount': 92},3219
+reaver,{'name': 'Python'},{'totalCount': 1},https://github.com/inoryy/reaver,{'totalCount': 478},{'totalCount': 33},{'totalCount': 79},295
+RNNLG,{'name': 'Python'},{'totalCount': 1},https://github.com/shawnwun/RNNLG,{'totalCount': 478},{'totalCount': 43},{'totalCount': 131},24255
+tensorflow-101,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/serengil/tensorflow-101,{'totalCount': 478},{'totalCount': 37},{'totalCount': 362},25665
+torchlayers,{'name': 'Python'},{'totalCount': 2},https://github.com/szymonmaszke/torchlayers,{'totalCount': 475},{'totalCount': 10},{'totalCount': 31},3537
+Self-Driving-Car-in-Video-Games,{'name': 'Python'},{'totalCount': 1},https://github.com/ikergarcia1996/Self-Driving-Car-in-Video-Games,{'totalCount': 473},{'totalCount': 20},{'totalCount': 53},105407
+Coursera-ML-using-matlab-python,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/TingNie/Coursera-ML-using-matlab-python,{'totalCount': 473},{'totalCount': 23},{'totalCount': 284},26695
+SGX-Full-OrderBook-Tick-Data-Trading-Strategy,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy,{'totalCount': 472},{'totalCount': 68},{'totalCount': 231},87658
+pyGAM,{'name': 'Python'},{'totalCount': 1},https://github.com/dswah/pyGAM,{'totalCount': 472},{'totalCount': 28},{'totalCount': 84},16206
+palladium,{'name': 'Python'},{'totalCount': 4},https://github.com/ottogroup/palladium,{'totalCount': 469},{'totalCount': 38},{'totalCount': 54},527
+Awesome-Embedded,,{'totalCount': 0},https://github.com/nhivp/Awesome-Embedded,{'totalCount': 468},{'totalCount': 36},{'totalCount': 103},59
+vehicle_counting_tensorflow,{'name': 'Python'},{'totalCount': 4},https://github.com/ahmetozlu/vehicle_counting_tensorflow,{'totalCount': 468},{'totalCount': 39},{'totalCount': 227},249313
+nmt-keras,{'name': 'Python'},{'totalCount': 2},https://github.com/lvapeab/nmt-keras,{'totalCount': 468},{'totalCount': 28},{'totalCount': 124},5822
+Pytorch-Project-Template,{'name': 'Python'},{'totalCount': 2},https://github.com/moemen95/Pytorch-Project-Template,{'totalCount': 466},{'totalCount': 24},{'totalCount': 97},153
+osqp,{'name': 'C'},{'totalCount': 6},https://github.com/oxfordcontrol/osqp,{'totalCount': 465},{'totalCount': 42},{'totalCount': 116},37372
+tacotron,{'name': 'HTML'},{'totalCount': 2},https://github.com/google/tacotron,{'totalCount': 462},{'totalCount': 71},{'totalCount': 69},457467
+imageprocessing-labs,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/wellflat/imageprocessing-labs,{'totalCount': 461},{'totalCount': 38},{'totalCount': 80},3453
+dn2a,{'name': 'JavaScript'},{'totalCount': 2},https://github.com/antoniodeluca/dn2a,{'totalCount': 459},{'totalCount': 33},{'totalCount': 14},371
+self-attentive-parser,{'name': 'Python'},{'totalCount': 5},https://github.com/nikitakit/self-attentive-parser,{'totalCount': 458},{'totalCount': 13},{'totalCount': 85},85127
+Trending-Deep-Learning,{'name': 'Python'},{'totalCount': 1},https://github.com/mbadry1/Trending-Deep-Learning,{'totalCount': 457},{'totalCount': 55},{'totalCount': 164},94
+deep-learning-bitcoin,{'name': 'Python'},{'totalCount': 3},https://github.com/philipperemy/deep-learning-bitcoin,{'totalCount': 456},{'totalCount': 80},{'totalCount': 121},549
+ALiPy,{'name': 'Python'},{'totalCount': 1},https://github.com/NUAA-AL/ALiPy,{'totalCount': 454},{'totalCount': 25},{'totalCount': 68},1247
+rumale,{'name': 'Ruby'},{'totalCount': 3},https://github.com/yoshoku/rumale,{'totalCount': 454},{'totalCount': 20},{'totalCount': 23},1069
+pycococreator,{'name': 'Python'},{'totalCount': 1},https://github.com/waspinator/pycococreator,{'totalCount': 446},{'totalCount': 14},{'totalCount': 116},180
+machinelearnjs,{'name': 'TypeScript'},{'totalCount': 4},https://github.com/machinelearnjs/machinelearnjs,{'totalCount': 444},{'totalCount': 11},{'totalCount': 37},2794
+buffalo,{'name': 'Python'},{'totalCount': 4},https://github.com/kakao/buffalo,{'totalCount': 444},{'totalCount': 27},{'totalCount': 61},2282
+PPLM,{'name': 'Python'},{'totalCount': 3},https://github.com/uber-research/PPLM,{'totalCount': 444},{'totalCount': 19},{'totalCount': 72},2484
+deep-learning-book,,{'totalCount': 0},https://github.com/zsdonghao/deep-learning-book,{'totalCount': 443},{'totalCount': 39},{'totalCount': 218},77682
+Machine-Learning-Book,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/yuanxiaosc/Machine-Learning-Book,{'totalCount': 443},{'totalCount': 22},{'totalCount': 139},78442
+bertsearch,{'name': 'Python'},{'totalCount': 4},https://github.com/Hironsan/bertsearch,{'totalCount': 443},{'totalCount': 21},{'totalCount': 85},744
+AndroidTensorFlowMNISTExample,{'name': 'Java'},{'totalCount': 2},https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample,{'totalCount': 442},{'totalCount': 26},{'totalCount': 98},16111
+nodejs-speech,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/googleapis/nodejs-speech,{'totalCount': 441},{'totalCount': 40},{'totalCount': 206},10124
+SeeFood,{'name': 'Swift'},{'totalCount': 1},https://github.com/kingreza/SeeFood,{'totalCount': 440},{'totalCount': 16},{'totalCount': 38},23763
+Machine_Learning_Tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/maelfabien/Machine_Learning_Tutorials,{'totalCount': 440},{'totalCount': 23},{'totalCount': 150},200805
+interpretable_machine_learning_with_python,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/jphall663/interpretable_machine_learning_with_python,{'totalCount': 438},{'totalCount': 32},{'totalCount': 142},33254
+chat,{'name': 'Python'},{'totalCount': 1},https://github.com/Decalogue/chat,{'totalCount': 437},{'totalCount': 38},{'totalCount': 153},32479
+treelstm.pytorch,{'name': 'Python'},{'totalCount': 4},https://github.com/dasguptar/treelstm.pytorch,{'totalCount': 437},{'totalCount': 12},{'totalCount': 117},51
+hate-speech-and-offensive-language,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/t-davidson/hate-speech-and-offensive-language,{'totalCount': 437},{'totalCount': 34},{'totalCount': 147},3603
+Kam1n0-Community,{'name': 'C'},{'totalCount': 16},https://github.com/McGill-DMaS/Kam1n0-Community,{'totalCount': 437},{'totalCount': 53},{'totalCount': 90},429803
+raisr,{'name': 'Python'},{'totalCount': 1},https://github.com/movehand/raisr,{'totalCount': 437},{'totalCount': 42},{'totalCount': 130},650
+SGC,{'name': 'Python'},{'totalCount': 1},https://github.com/Tiiiger/SGC,{'totalCount': 435},{'totalCount': 15},{'totalCount': 73},6245
+awesome-learn-datascience,,{'totalCount': 0},https://github.com/siboehm/awesome-learn-datascience,{'totalCount': 433},{'totalCount': 26},{'totalCount': 51},21
+PiP-Tool,{'name': 'C#'},{'totalCount': 1},https://github.com/LionelJouin/PiP-Tool,{'totalCount': 433},{'totalCount': 20},{'totalCount': 39},293
+determined,{'name': 'Python'},{'totalCount': 13},https://github.com/determined-ai/determined,{'totalCount': 433},{'totalCount': 17},{'totalCount': 57},10306
+PaddlePaddle_code,{'name': 'Python'},{'totalCount': 1},https://github.com/huxiaoman7/PaddlePaddle_code,{'totalCount': 432},{'totalCount': 40},{'totalCount': 163},241
+simple-ocr-opencv,{'name': 'Python'},{'totalCount': 1},https://github.com/goncalopp/simple-ocr-opencv,{'totalCount': 431},{'totalCount': 33},{'totalCount': 155},579
+flashtorch,{'name': 'Python'},{'totalCount': 2},https://github.com/MisaOgura/flashtorch,{'totalCount': 431},{'totalCount': 15},{'totalCount': 48},72678
+CS231n-2017,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/Burton2000/CS231n-2017,{'totalCount': 431},{'totalCount': 17},{'totalCount': 177},35794
+cookbook-2nd-code,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/ipython-books/cookbook-2nd-code,{'totalCount': 430},{'totalCount': 31},{'totalCount': 263},46305
+DocProduct,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/re-search/DocProduct,{'totalCount': 430},{'totalCount': 23},{'totalCount': 112},17496
+rosie,,{'totalCount': 0},https://github.com/okfn-brasil/rosie,{'totalCount': 429},{'totalCount': 63},{'totalCount': 69},294
+Python-for-Probability-Statistics-and-Machine-Learning,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning,{'totalCount': 428},{'totalCount': 33},{'totalCount': 196},8881
+awesome-python-data-science,,{'totalCount': 0},https://github.com/krzjoa/awesome-python-data-science,{'totalCount': 428},{'totalCount': 31},{'totalCount': 74},1217
+speech-denoising-wavenet,{'name': 'Python'},{'totalCount': 1},https://github.com/drethage/speech-denoising-wavenet,{'totalCount': 428},{'totalCount': 16},{'totalCount': 123},60117
+tfjs-yolo-tiny,{'name': 'JavaScript'},{'totalCount': 1},https://github.com/ModelDepot/tfjs-yolo-tiny,{'totalCount': 428},{'totalCount': 18},{'totalCount': 76},16136
+awesome-seml,,{'totalCount': 0},https://github.com/SE-ML/awesome-seml,{'totalCount': 428},{'totalCount': 30},{'totalCount': 40},192
+research,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/hudson-and-thames/research,{'totalCount': 425},{'totalCount': 65},{'totalCount': 175},81784
+is_that_a_duplicate_quora_question,{'name': 'Python'},{'totalCount': 1},https://github.com/abhishekkrthakur/is_that_a_duplicate_quora_question,{'totalCount': 424},{'totalCount': 25},{'totalCount': 164},5
+OpenML,{'name': 'CSS'},{'totalCount': 8},https://github.com/openml/OpenML,{'totalCount': 422},{'totalCount': 47},{'totalCount': 81},578209
+MIDAS,{'name': 'C++'},{'totalCount': 4},https://github.com/Stream-AD/MIDAS,{'totalCount': 422},{'totalCount': 16},{'totalCount': 40},1303
+TensorFlow-iOS-Example,{'name': 'Swift'},{'totalCount': 5},https://github.com/hollance/TensorFlow-iOS-Example,{'totalCount': 421},{'totalCount': 17},{'totalCount': 89},425
+keras-text,{'name': 'Python'},{'totalCount': 1},https://github.com/raghakot/keras-text,{'totalCount': 420},{'totalCount': 20},{'totalCount': 96},12114
+ML_paper_notes,,{'totalCount': 0},https://github.com/yassouali/ML_paper_notes,{'totalCount': 419},{'totalCount': 37},{'totalCount': 61},66126
+xai,{'name': 'Python'},{'totalCount': 3},https://github.com/EthicalML/xai,{'totalCount': 417},{'totalCount': 30},{'totalCount': 59},18036
+generative-models,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/shayneobrien/generative-models,{'totalCount': 416},{'totalCount': 17},{'totalCount': 58},149785
+libxsmm,{'name': 'C'},{'totalCount': 11},https://github.com/hfp/libxsmm,{'totalCount': 416},{'totalCount': 49},{'totalCount': 94},265299
+code_search,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/hamelsmu/code_search,{'totalCount': 415},{'totalCount': 27},{'totalCount': 120},77245
+awesome-very-deep-learning,,{'totalCount': 0},https://github.com/daviddao/awesome-very-deep-learning,{'totalCount': 415},{'totalCount': 50},{'totalCount': 81},37
+sumeval,{'name': 'Python'},{'totalCount': 1},https://github.com/chakki-works/sumeval,{'totalCount': 415},{'totalCount': 16},{'totalCount': 38},108
+recordlinkage,{'name': 'Python'},{'totalCount': 3},https://github.com/J535D165/recordlinkage,{'totalCount': 413},{'totalCount': 27},{'totalCount': 71},73266
+machineJS,{'name': 'Python'},{'totalCount': 2},https://github.com/ClimbsRocks/machineJS,{'totalCount': 411},{'totalCount': 34},{'totalCount': 60},478
+CapsNet,,{'totalCount': 0},https://github.com/loretoparisi/CapsNet,{'totalCount': 411},{'totalCount': 36},{'totalCount': 107},133
+CapsNet-pytorch,{'name': 'Python'},{'totalCount': 1},https://github.com/adambielski/CapsNet-pytorch,{'totalCount': 411},{'totalCount': 6},{'totalCount': 52},290
+sklearn-classification,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/dformoso/sklearn-classification,{'totalCount': 410},{'totalCount': 33},{'totalCount': 161},11328
+OmniNet,{'name': 'Python'},{'totalCount': 1},https://github.com/subho406/OmniNet,{'totalCount': 409},{'totalCount': 14},{'totalCount': 44},17836
+qpth,{'name': 'Python'},{'totalCount': 2},https://github.com/locuslab/qpth,{'totalCount': 407},{'totalCount': 28},{'totalCount': 59},340
+pynlpl,{'name': 'Python'},{'totalCount': 3},https://github.com/proycon/pynlpl,{'totalCount': 406},{'totalCount': 33},{'totalCount': 57},13452
+pba,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/arcelien/pba,{'totalCount': 405},{'totalCount': 18},{'totalCount': 77},549
+stanford-cs229,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/zyxue/stanford-cs229,{'totalCount': 404},{'totalCount': 19},{'totalCount': 237},33069
+deeplabv3,{'name': 'Python'},{'totalCount': 1},https://github.com/fregu856/deeplabv3,{'totalCount': 403},{'totalCount': 12},{'totalCount': 104},264526
+awesome-diarization,,{'totalCount': 0},https://github.com/wq2012/awesome-diarization,{'totalCount': 403},{'totalCount': 51},{'totalCount': 84},151
+single-parameter-fit,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/Ranlot/single-parameter-fit,{'totalCount': 402},{'totalCount': 12},{'totalCount': 38},6606
+spacy-stanza,{'name': 'Python'},{'totalCount': 1},https://github.com/explosion/spacy-stanza,{'totalCount': 402},{'totalCount': 16},{'totalCount': 38},46
+ruby-fann,{'name': 'C'},{'totalCount': 2},https://github.com/tangledpath/ruby-fann,{'totalCount': 402},{'totalCount': 31},{'totalCount': 32},954
+model-zoo,{'name': 'Julia'},{'totalCount': 2},https://github.com/FluxML/model-zoo,{'totalCount': 402},{'totalCount': 32},{'totalCount': 195},1698
+EpipolarPose,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/mkocabas/EpipolarPose,{'totalCount': 401},{'totalCount': 22},{'totalCount': 69},307
+AlphaPy,{'name': 'Python'},{'totalCount': 2},https://github.com/ScottfreeLLC/AlphaPy,{'totalCount': 398},{'totalCount': 49},{'totalCount': 94},34818
+Food-Recipe-CNN,{'name': 'Jupyter Notebook'},{'totalCount': 5},https://github.com/Murgio/Food-Recipe-CNN,{'totalCount': 398},{'totalCount': 26},{'totalCount': 96},219573
+puffer,{'name': 'C++'},{'totalCount': 9},https://github.com/StanfordSNR/puffer,{'totalCount': 398},{'totalCount': 21},{'totalCount': 55},6777
+pandapy,{'name': 'Python'},{'totalCount': 1},https://github.com/firmai/pandapy,{'totalCount': 398},{'totalCount': 13},{'totalCount': 25},502
+nboost,{'name': 'Python'},{'totalCount': 7},https://github.com/koursaros-ai/nboost,{'totalCount': 397},{'totalCount': 20},{'totalCount': 40},14808
+OctoBot,{'name': 'Python'},{'totalCount': 6},https://github.com/Drakkar-Software/OctoBot,{'totalCount': 397},{'totalCount': 69},{'totalCount': 119},133964
+n2,{'name': 'C++'},{'totalCount': 5},https://github.com/kakao/n2,{'totalCount': 397},{'totalCount': 32},{'totalCount': 46},703
+SimGAN,{'name': 'Python'},{'totalCount': 1},https://github.com/mjdietzx/SimGAN,{'totalCount': 397},{'totalCount': 23},{'totalCount': 98},31
+hierarchical-attention-networks,{'name': 'Python'},{'totalCount': 1},https://github.com/ematvey/hierarchical-attention-networks,{'totalCount': 395},{'totalCount': 28},{'totalCount': 127},36
+Fido,{'name': 'C++'},{'totalCount': 5},https://github.com/FidoProject/Fido,{'totalCount': 394},{'totalCount': 35},{'totalCount': 72},53652
+WorkshopScipy,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/Andrewnetwork/WorkshopScipy,{'totalCount': 394},{'totalCount': 21},{'totalCount': 41},19921
+scikit-survival,{'name': 'Python'},{'totalCount': 4},https://github.com/sebp/scikit-survival,{'totalCount': 393},{'totalCount': 20},{'totalCount': 97},3310
+sklearn-bayes,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/AmazaspShumik/sklearn-bayes,{'totalCount': 393},{'totalCount': 32},{'totalCount': 100},18250
+Agile_Data_Code_2,{'name': 'Jupyter Notebook'},{'totalCount': 7},https://github.com/rjurney/Agile_Data_Code_2,{'totalCount': 392},{'totalCount': 43},{'totalCount': 259},19887
+machine-learning-yearning,,{'totalCount': 0},https://github.com/ajaymache/machine-learning-yearning,{'totalCount': 391},{'totalCount': 33},{'totalCount': 159},9716
+QLearning_Trading,{'name': 'Jupyter Notebook'},{'totalCount': 4},https://github.com/ucaiado/QLearning_Trading,{'totalCount': 389},{'totalCount': 23},{'totalCount': 156},163503
+interactive-machine-learning-list,{'name': 'JavaScript'},{'totalCount': 3},https://github.com/stared/interactive-machine-learning-list,{'totalCount': 388},{'totalCount': 30},{'totalCount': 33},4711
+useR-machine-learning-tutorial,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/ledell/useR-machine-learning-tutorial,{'totalCount': 387},{'totalCount': 43},{'totalCount': 185},3911
+superviseddescent,{'name': 'C++'},{'totalCount': 3},https://github.com/patrikhuber/superviseddescent,{'totalCount': 387},{'totalCount': 43},{'totalCount': 188},48496
+Cool-Fashion-Papers,{'name': 'Shell'},{'totalCount': 2},https://github.com/lzhbrian/Cool-Fashion-Papers,{'totalCount': 386},{'totalCount': 37},{'totalCount': 71},998
+dropblock,{'name': 'Python'},{'totalCount': 1},https://github.com/miguelvr/dropblock,{'totalCount': 383},{'totalCount': 8},{'totalCount': 58},49
+GBDT_Simple_Tutorial,{'name': 'Python'},{'totalCount': 1},https://github.com/Freemanzxp/GBDT_Simple_Tutorial,{'totalCount': 382},{'totalCount': 15},{'totalCount': 99},2238
+tf-seq2seq,{'name': 'Python'},{'totalCount': 11},https://github.com/jayparks/tf-seq2seq,{'totalCount': 382},{'totalCount': 26},{'totalCount': 112},123
+qupath,{'name': 'Java'},{'totalCount': 7},https://github.com/qupath/qupath,{'totalCount': 381},{'totalCount': 48},{'totalCount': 108},88443
+ktrain,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/amaiya/ktrain,{'totalCount': 381},{'totalCount': 17},{'totalCount': 91},107202
+stringsifter,{'name': 'Python'},{'totalCount': 2},https://github.com/fireeye/stringsifter,{'totalCount': 381},{'totalCount': 26},{'totalCount': 57},1935
+awesome-twitter-data,,{'totalCount': 0},https://github.com/shaypal5/awesome-twitter-data,{'totalCount': 380},{'totalCount': 16},{'totalCount': 59},73
+PyShortTextCategorization,{'name': 'Python'},{'totalCount': 2},https://github.com/stephenhky/PyShortTextCategorization,{'totalCount': 379},{'totalCount': 18},{'totalCount': 58},115679
+weiboanalysis,{'name': 'Python'},{'totalCount': 1},https://github.com/Zephery/weiboanalysis,{'totalCount': 379},{'totalCount': 9},{'totalCount': 125},6732
+skale,{'name': 'JavaScript'},{'totalCount': 5},https://github.com/skale-me/skale,{'totalCount': 378},{'totalCount': 22},{'totalCount': 45},14451
+OurCamera,{'name': 'Python'},{'totalCount': 1},https://github.com/Bellspringsteen/OurCamera,{'totalCount': 378},{'totalCount': 34},{'totalCount': 36},360166
+mli-resources,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/h2oai/mli-resources,{'totalCount': 377},{'totalCount': 117},{'totalCount': 100},68968
+CryptocurrencyPrediction,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/khuangaf/CryptocurrencyPrediction,{'totalCount': 377},{'totalCount': 43},{'totalCount': 148},6491
+supervisely-tutorials,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/DeepSystems/supervisely-tutorials,{'totalCount': 377},{'totalCount': 26},{'totalCount': 211},8247
+ensmallen,{'name': 'C++'},{'totalCount': 3},https://github.com/mlpack/ensmallen,{'totalCount': 377},{'totalCount': 37},{'totalCount': 66},3854
+strawberryfields,{'name': 'Python'},{'totalCount': 2},https://github.com/XanaduAI/strawberryfields,{'totalCount': 376},{'totalCount': 28},{'totalCount': 87},15652
+data-science-portfolio,{'name': 'Jupyter Notebook'},{'totalCount': 2},https://github.com/sajal2692/data-science-portfolio,{'totalCount': 376},{'totalCount': 35},{'totalCount': 195},35489
+combo,{'name': 'Python'},{'totalCount': 1},https://github.com/yzhao062/combo,{'totalCount': 375},{'totalCount': 21},{'totalCount': 64},5241
+musicmood,{'name': 'OpenEdge ABL'},{'totalCount': 5},https://github.com/rasbt/musicmood,{'totalCount': 374},{'totalCount': 30},{'totalCount': 99},55916
+the-math-of-intelligence,,{'totalCount': 0},https://github.com/LearnMachineLearning/the-math-of-intelligence,{'totalCount': 373},{'totalCount': 19},{'totalCount': 44},5
+100DaysOfMLCode,{'name': 'Jupyter Notebook'},{'totalCount': 1},https://github.com/harshitahluwalia7895/100DaysOfMLCode,{'totalCount': 372},{'totalCount': 72},{'totalCount': 209},46124
+simple_bayes,{'name': 'Elixir'},{'totalCount': 1},https://github.com/fredwu/simple_bayes,{'totalCount': 372},{'totalCount': 19},{'totalCount': 24},100
+ScikitLearn.jl,{'name': 'Julia'},{'totalCount': 2},https://github.com/cstjean/ScikitLearn.jl,{'totalCount': 372},{'totalCount': 20},{'totalCount': 47},14578
+open-solution-home-credit,{'name': 'Python'},{'totalCount': 2},https://github.com/minerva-ml/open-solution-home-credit,{'totalCount': 371},{'totalCount': 34},{'totalCount': 144},229
+machine-learning-reference,,{'totalCount': 0},https://github.com/Halfish/machine-learning-reference,{'totalCount': 370},{'totalCount': 27},{'totalCount': 98},48
+BrainCore,{'name': 'Swift'},{'totalCount': 6},https://github.com/alejandro-isaza/BrainCore,{'totalCount': 370},{'totalCount': 36},{'totalCount': 48},262
+tcav,{'name': 'Python'},{'totalCount': 3},https://github.com/tensorflow/tcav,{'totalCount': 370},{'totalCount': 30},{'totalCount': 79},506
+onnxmltools,{'name': 'Python'},{'totalCount': 2},https://github.com/onnx/onnxmltools,{'totalCount': 370},{'totalCount': 38},{'totalCount': 85},3045
+IntroNeuralNetworks,{'name': 'Python'},{'totalCount': 1},https://github.com/VivekPa/IntroNeuralNetworks,{'totalCount': 369},{'totalCount': 39},{'totalCount': 136},32
+h2o4gpu,{'name': 'Python'},{'totalCount': 16},https://github.com/h2oai/h2o4gpu,{'totalCount': 369},{'totalCount': 105},{'totalCount': 92},27846
+mimic3-benchmarks,{'name': 'Python'},{'totalCount': 1},https://github.com/YerevaNN/mimic3-benchmarks,{'totalCount': 368},{'totalCount': 42},{'totalCount': 173},11507
+ICLR2020-OpenReviewData,{'name': 'Jupyter Notebook'},{'totalCount': 3},https://github.com/shaohua0116/ICLR2020-OpenReviewData,{'totalCount': 368},{'totalCount': 12},{'totalCount': 31},149641
+Perceptron,{'name': 'Python'},{'totalCount': 1},https://github.com/casparwylie/Perceptron,{'totalCount': 368},{'totalCount': 19},{'totalCount': 28},15307
+RedisAI,{'name': 'C'},{'totalCount': 9},https://github.com/RedisAI/RedisAI,{'totalCount': 366},{'totalCount': 23},{'totalCount': 37},5685
+data-augmentation-review,,{'totalCount': 0},https://github.com/AgaMiko/data-augmentation-review,{'totalCount': 366},{'totalCount': 19},{'totalCount': 45},4143
